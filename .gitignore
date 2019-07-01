@@ -1,0 +1,9 @@
+# ignore everything
+*
+
+# Except
+!.gitignore
+!/results/*
+!/results/*/*/*.txt
+
+
