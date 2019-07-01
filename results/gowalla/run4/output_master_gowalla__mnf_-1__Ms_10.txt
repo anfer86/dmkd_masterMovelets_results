@@ -1,0 +1,5782 @@
+Starting running MasterMovelets 
+Configurations:
+	Datasets directory:	    /home/wzalewski/ferrero/thesis/cv//datasets/gowalla/run4//
+	Results directory:    /home/wzalewski/ferrero/thesis/cv//results/gowalla/run4//
+	Description file :    descriptions/gowalla.json
+	Allowed Threads:      16
+	Min size:             1
+	Max size:             10
+	Quality Measure:      LSP
+	Explore dimensions:   true
+	Samples:      1
+	Sample Size:   0.5
+	Medium:   none
+	MPT:   -1
+	Output:   discrete
+
+
+Starting...
+Class: 142. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar110
+{[0, 1, 2, 3]=4, [3]=2, [0, 1, 3]=2, [1]=3, [0, 1, 2]=17, [0]=13, [1, 2, 3]=4, [0, 2, 3]=3, [2, 3]=1, [0, 3]=8, [0, 1]=8, [0, 2]=36, [1, 2]=1, [1, 3]=8}
+{[0, 1, 2, 3]=4, [3]=2, [0, 1, 3]=2, [1]=3, [0, 1, 2]=17, [0]=13, [1, 2, 3]=4, [0, 2, 3]=3, [2, 3]=1, [0, 3]=8, [0, 1]=8, [0, 2]=36, [1, 2]=1, [1, 3]=8}
+Class: 143. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar195
+{[3]=21, [0, 1]=12, [0, 1, 2, 3]=4, [0, 2]=29, [1]=1, [0, 1, 2]=33, [0]=85, [0, 2, 3]=1, [1, 2, 3]=1, [2, 3]=5, [1, 3]=3}
+{[3]=21, [0, 1]=12, [0, 1, 2, 3]=4, [0, 2]=29, [1]=1, [0, 1, 2]=33, [0]=85, [0, 2, 3]=1, [1, 2, 3]=1, [2, 3]=5, [1, 3]=3}
+Class: 218. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar115
+{[0, 3]=4, [0, 1, 2, 3]=3, [0, 1]=15, [0, 2]=31, [0, 1, 3]=4, [0, 1, 2]=32, [1, 2, 3]=4, [0]=12, [0, 2, 3]=1, [1, 3]=8, [2, 3]=1}
+{[0, 3]=4, [0, 1, 2, 3]=3, [0, 1]=15, [0, 2]=31, [0, 1, 3]=4, [0, 1, 2]=32, [1, 2, 3]=4, [0]=12, [0, 2, 3]=1, [1, 3]=8, [2, 3]=1}
+Class: 221. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar254
+{[0, 3]=2, [3]=32, [0, 1]=27, [0, 1, 2, 3]=1, [0, 2]=63, [0, 1, 3]=5, [1]=3, [0, 1, 2]=38, [0]=71, [1, 2]=2, [1, 3]=7, [2, 3]=3}
+{[0, 3]=2, [3]=32, [0, 1]=27, [0, 1, 2, 3]=1, [0, 2]=63, [0, 1, 3]=5, [1]=3, [0, 1, 2]=38, [0]=71, [1, 2]=2, [1, 3]=7, [2, 3]=3}
+Class: 291. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar247
+{[3]=9, [0, 1]=8, [0, 2]=17, [0, 1, 2]=2, [0]=211}
+{[3]=9, [0, 1]=8, [0, 2]=17, [0, 1, 2]=2, [0]=211}
+Class: 337. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar144
+{[0, 3]=2, [0, 1]=12, [0, 2]=42, [0, 1, 3]=1, [0, 1, 2]=19, [0]=65, [1, 3]=2, [2, 3]=1}
+{[0, 3]=2, [0, 1]=12, [0, 2]=42, [0, 1, 3]=1, [0, 1, 2]=19, [0]=65, [1, 3]=2, [2, 3]=1}
+Class: 339. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar176
+{[3]=39, [0, 1]=10, [0, 2]=19, [0, 1, 2]=18, [0]=89, [1, 3]=1}
+{[3]=39, [0, 1]=10, [0, 2]=19, [0, 1, 2]=18, [0]=89, [1, 3]=1}
+Class: 350. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   1%  \
+Movelet Discovery   1%  |
+Movelet Discovery   1%  /
+Movelet Discovery   1%  -
+Movelet Discovery   1%  \
+Movelet Discovery   1%  |Antes de ordernar736
+{[0, 3]=5, [3]=8, [0, 1]=80, [0, 1, 2, 3]=18, [0, 2]=50, [0, 1, 3]=5, [0, 1, 2]=108, [0]=402, [0, 2, 3]=19, [1, 2, 3]=2, [2, 3]=37, [1, 3]=2}
+{[0, 3]=5, [3]=8, [0, 1]=80, [0, 1, 2, 3]=18, [0, 2]=50, [0, 1, 3]=5, [0, 1, 2]=108, [0]=402, [0, 2, 3]=19, [1, 2, 3]=2, [2, 3]=37, [1, 3]=2}
+Class: 446. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar226
+{[0, 1]=32, [3]=5, [0, 2]=87, [0, 1, 2]=31, [0]=71}
+{[0, 1]=32, [3]=5, [0, 2]=87, [0, 1, 2]=31, [0]=71}
+Class: 460. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar390
+{[3]=36, [0, 1, 2, 3]=6, [0, 1, 3]=4, [1]=10, [0, 1, 2]=29, [0]=201, [0, 2, 3]=2, [1, 2, 3]=2, [2, 3]=4, [0, 3]=2, [0, 1]=30, [0, 2]=58, [1, 2]=1, [1, 3]=5}
+{[3]=36, [0, 1, 2, 3]=6, [0, 1, 3]=4, [1]=10, [0, 1, 2]=29, [0]=201, [0, 2, 3]=2, [1, 2, 3]=2, [2, 3]=4, [0, 3]=2, [0, 1]=30, [0, 2]=58, [1, 2]=1, [1, 3]=5}
+Class: 468. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar235
+{[0, 3]=2, [3]=10, [0, 1]=30, [0, 1, 2, 3]=3, [0, 2]=47, [0, 1, 3]=5, [1]=7, [0, 1, 2]=35, [0]=77, [0, 2, 3]=4, [2, 3]=9, [1, 3]=6}
+{[0, 3]=2, [3]=10, [0, 1]=30, [0, 1, 2, 3]=3, [0, 2]=47, [0, 1, 3]=5, [1]=7, [0, 1, 2]=35, [0]=77, [0, 2, 3]=4, [2, 3]=9, [1, 3]=6}
+Class: 476. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar117
+{[0, 3]=3, [3]=3, [0, 1]=9, [0, 1, 2, 3]=2, [0, 2]=16, [0, 1, 3]=4, [1]=3, [0, 1, 2]=27, [0]=34, [1, 2, 3]=7, [1, 2]=4, [1, 3]=5}
+{[0, 3]=3, [3]=3, [0, 1]=9, [0, 1, 2, 3]=2, [0, 2]=16, [0, 1, 3]=4, [1]=3, [0, 1, 2]=27, [0]=34, [1, 2, 3]=7, [1, 2]=4, [1, 3]=5}
+Class: 494. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar171
+{[3]=5, [0, 1, 2, 3]=5, [0, 1, 3]=10, [1]=9, [0, 1, 2]=39, [0]=28, [0, 2, 3]=4, [1, 2, 3]=3, [2, 3]=9, [0, 3]=3, [0, 1]=29, [0, 2]=19, [1, 2]=1, [1, 3]=7}
+{[3]=5, [0, 1, 2, 3]=5, [0, 1, 3]=10, [1]=9, [0, 1, 2]=39, [0]=28, [0, 2, 3]=4, [1, 2, 3]=3, [2, 3]=9, [0, 3]=3, [0, 1]=29, [0, 2]=19, [1, 2]=1, [1, 3]=7}
+Class: 539. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar208
+{[0, 1, 2, 3]=7, [3]=2, [0, 1, 3]=21, [1]=1, [0, 1, 2]=19, [0, 2, 3]=18, [1, 2, 3]=5, [0]=57, [2, 3]=7, [0, 3]=8, [0, 1]=13, [0, 2]=39, [1, 3]=11}
+{[0, 1, 2, 3]=7, [3]=2, [0, 1, 3]=21, [1]=1, [0, 1, 2]=19, [0, 2, 3]=18, [1, 2, 3]=5, [0]=57, [2, 3]=7, [0, 3]=8, [0, 1]=13, [0, 2]=39, [1, 3]=11}
+Class: 540. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar511
+{[0, 1]=47, [3]=33, [0, 2]=124, [0, 1, 3]=1, [0, 1, 2]=62, [0]=244}
+{[0, 1]=47, [3]=33, [0, 2]=124, [0, 1, 3]=1, [0, 1, 2]=62, [0]=244}
+Class: 569. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar138
+{[3]=7, [0, 1]=6, [0, 2]=49, [0, 1, 3]=1, [1]=2, [0, 1, 2]=20, [0]=51, [1, 2, 3]=1, [1, 2]=1}
+{[3]=7, [0, 1]=6, [0, 2]=49, [0, 1, 3]=1, [1]=2, [0, 1, 2]=20, [0]=51, [1, 2, 3]=1, [1, 2]=1}
+Class: 677. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar85
+{[0, 1]=2, [0, 2]=17, [0, 1, 2]=1, [0]=65}
+{[0, 1]=2, [0, 2]=17, [0, 1, 2]=1, [0]=65}
+Class: 708. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar145
+{[3]=21, [0, 1]=17, [0, 2]=32, [1]=2, [0, 1, 2]=11, [0]=62}
+{[3]=21, [0, 1]=17, [0, 2]=32, [1]=2, [0, 1, 2]=11, [0]=62}
+Class: 743. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar296
+{[3]=17, [0, 1]=23, [0, 2]=71, [0, 1, 2]=3, [0]=182}
+{[3]=17, [0, 1]=23, [0, 2]=71, [0, 1, 2]=3, [0]=182}
+Class: 779. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar99
+{[3]=15, [0, 1]=11, [0, 2]=27, [1]=3, [0, 1, 2]=13, [0]=30}
+{[3]=15, [0, 1]=11, [0, 2]=27, [1]=3, [0, 1, 2]=13, [0]=30}
+Class: 830. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar98
+{[0, 3]=1, [3]=10, [0, 1]=9, [0, 1, 2, 3]=1, [0, 2]=10, [0, 1, 3]=3, [0, 1, 2]=22, [0]=30, [1, 2, 3]=1, [1, 2]=4, [1, 3]=4, [2, 3]=3}
+{[0, 3]=1, [3]=10, [0, 1]=9, [0, 1, 2, 3]=1, [0, 2]=10, [0, 1, 3]=3, [0, 1, 2]=22, [0]=30, [1, 2, 3]=1, [1, 2]=4, [1, 3]=4, [2, 3]=3}
+Class: 832. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar152
+{[3]=3, [0, 1]=3, [0, 1, 2, 3]=1, [0, 2]=54, [1]=6, [0, 1, 2]=23, [0]=60, [2, 3]=2}
+{[3]=3, [0, 1]=3, [0, 1, 2, 3]=1, [0, 2]=54, [1]=6, [0, 1, 2]=23, [0]=60, [2, 3]=2}
+Class: 865. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar187
+{[0, 3]=4, [0, 1]=7, [3]=2, [0, 2]=93, [0, 1, 2]=38, [0]=43}
+{[0, 3]=4, [0, 1]=7, [3]=2, [0, 2]=93, [0, 1, 2]=38, [0]=43}
+Class: 869. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar201
+{[3]=29, [0, 1]=12, [0, 2]=31, [0, 1, 2]=7, [0]=122}
+{[3]=29, [0, 1]=12, [0, 2]=31, [0, 1, 2]=7, [0]=122}
+Class: 884. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar183
+{[3]=57, [0, 1]=6, [0, 2]=15, [0, 1, 2]=8, [0]=97}
+{[3]=57, [0, 1]=6, [0, 2]=15, [0, 1, 2]=8, [0]=97}
+Class: 908. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar147
+{[3]=6, [0, 1]=3, [0, 2]=23, [1]=1, [0, 1, 2]=11, [0]=103}
+{[3]=6, [0, 1]=3, [0, 2]=23, [1]=1, [0, 1, 2]=11, [0]=103}
+Class: 969. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar133
+{[3]=15, [0, 2]=26, [0, 1, 2]=2, [0]=90}
+{[3]=15, [0, 2]=26, [0, 1, 2]=2, [0]=90}
+Class: 1120. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar360
+{[3]=37, [0, 1, 2, 3]=1, [0, 1, 3]=4, [1]=7, [0, 1, 2]=49, [0]=121, [1, 2, 3]=1, [2, 3]=5, [0, 3]=6, [0, 1]=44, [0, 2]=75, [1, 2]=2, [1, 3]=8}
+{[3]=37, [0, 1, 2, 3]=1, [0, 1, 3]=4, [1]=7, [0, 1, 2]=49, [0]=121, [1, 2, 3]=1, [2, 3]=5, [0, 3]=6, [0, 1]=44, [0, 2]=75, [1, 2]=2, [1, 3]=8}
+Class: 1176. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar745
+{[3]=87, [0, 1]=11, [0, 2]=192, [0, 1, 2]=64, [0]=391}
+{[3]=87, [0, 1]=11, [0, 2]=192, [0, 1, 2]=64, [0]=391}
+Class: 1245. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar96
+{[0, 1]=7, [3]=3, [0, 1, 2, 3]=1, [0, 2]=25, [0, 1, 2]=4, [0]=54, [1, 2, 3]=1, [1, 2]=1}
+{[0, 1]=7, [3]=3, [0, 1, 2, 3]=1, [0, 2]=25, [0, 1, 2]=4, [0]=54, [1, 2, 3]=1, [1, 2]=1}
+Class: 1247. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar342
+{[3]=1, [0, 1]=4, [0, 2]=208, [0, 1, 2]=41, [0]=88}
+{[3]=1, [0, 1]=4, [0, 2]=208, [0, 1, 2]=41, [0]=88}
+Class: 1284. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar118
+{[0, 3]=8, [3]=4, [0, 1]=9, [0, 1, 2, 3]=2, [0, 2]=11, [0, 1, 3]=8, [0, 1, 2]=11, [0]=40, [1, 2, 3]=1, [0, 2, 3]=2, [1, 3]=14, [2, 3]=8}
+{[0, 3]=8, [3]=4, [0, 1]=9, [0, 1, 2, 3]=2, [0, 2]=11, [0, 1, 3]=8, [0, 1, 2]=11, [0]=40, [1, 2, 3]=1, [0, 2, 3]=2, [1, 3]=14, [2, 3]=8}
+Class: 1358. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar190
+{[0, 1]=10, [3]=2, [0, 1, 2, 3]=1, [0, 2]=56, [0, 1, 3]=4, [1]=16, [0, 1, 2]=21, [0]=68, [0, 2, 3]=1, [1, 2, 3]=1, [1, 2]=2, [1, 3]=8}
+{[0, 1]=10, [3]=2, [0, 1, 2, 3]=1, [0, 2]=56, [0, 1, 3]=4, [1]=16, [0, 1, 2]=21, [0]=68, [0, 2, 3]=1, [1, 2, 3]=1, [1, 2]=2, [1, 3]=8}
+Class: 1388. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar362
+{[3]=12, [0, 1]=8, [0, 2]=155, [0, 1, 3]=1, [1]=2, [0, 1, 2]=45, [0]=139}
+{[3]=12, [0, 1]=8, [0, 2]=155, [0, 1, 3]=1, [1]=2, [0, 1, 2]=45, [0]=139}
+Class: 1400. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar271
+{[3]=9, [0, 1]=41, [0, 1, 2, 3]=1, [0, 2]=72, [0, 1, 3]=1, [1]=7, [0, 1, 2]=25, [2]=1, [0]=103, [0, 2, 3]=1, [1, 2]=5, [1, 3]=5}
+{[3]=9, [0, 1]=41, [0, 1, 2, 3]=1, [0, 2]=72, [0, 1, 3]=1, [1]=7, [0, 1, 2]=25, [2]=1, [0]=103, [0, 2, 3]=1, [1, 2]=5, [1, 3]=5}
+Class: 1651. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar155
+{[3]=10, [0, 1, 2, 3]=1, [0, 1, 3]=7, [1]=2, [0, 1, 2]=20, [0]=29, [0, 2, 3]=5, [1, 2, 3]=1, [2, 3]=9, [0, 3]=2, [0, 1]=13, [0, 2]=52, [1, 3]=4}
+{[3]=10, [0, 1, 2, 3]=1, [0, 1, 3]=7, [1]=2, [0, 1, 2]=20, [0]=29, [0, 2, 3]=5, [1, 2, 3]=1, [2, 3]=9, [0, 3]=2, [0, 1]=13, [0, 2]=52, [1, 3]=4}
+Class: 1848. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar165
+{[0, 1]=18, [3]=9, [0, 2]=38, [1]=1, [0, 1, 2]=13, [0]=83, [1, 3]=1, [2, 3]=2}
+{[0, 1]=18, [3]=9, [0, 2]=38, [1]=1, [0, 1, 2]=13, [0]=83, [1, 3]=1, [2, 3]=2}
+Class: 2027. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar153
+{[3]=21, [0, 1]=12, [0, 2]=23, [0, 1, 2]=9, [0]=88}
+{[3]=21, [0, 1]=12, [0, 2]=23, [0, 1, 2]=9, [0]=88}
+Class: 2141. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar194
+{[0, 3]=8, [0, 1]=25, [0, 1, 2, 3]=12, [3]=5, [0, 2]=18, [0, 1, 3]=11, [0, 1, 2]=34, [0, 2, 3]=19, [0]=28, [1, 2, 3]=10, [1, 3]=16, [2, 3]=8}
+{[0, 3]=8, [0, 1]=25, [0, 1, 2, 3]=12, [3]=5, [0, 2]=18, [0, 1, 3]=11, [0, 1, 2]=34, [0, 2, 3]=19, [0]=28, [1, 2, 3]=10, [1, 3]=16, [2, 3]=8}
+Class: 2241. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar284
+{[3]=6, [0, 1, 2, 3]=1, [0, 1, 3]=20, [1]=5, [0, 1, 2]=50, [1, 2, 3]=13, [0, 2, 3]=2, [0]=40, [2, 3]=5, [0, 3]=16, [0, 1]=35, [0, 2]=66, [1, 3]=25}
+{[3]=6, [0, 1, 2, 3]=1, [0, 1, 3]=20, [1]=5, [0, 1, 2]=50, [1, 2, 3]=13, [0, 2, 3]=2, [0]=40, [2, 3]=5, [0, 3]=16, [0, 1]=35, [0, 2]=66, [1, 3]=25}
+Class: 2242. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar175
+{[3]=13, [0, 1]=15, [0, 1, 2, 3]=6, [0, 2]=11, [0, 1, 3]=2, [0, 1, 2]=24, [0]=53, [1, 2, 3]=18, [1, 3]=33}
+{[3]=13, [0, 1]=15, [0, 1, 2, 3]=6, [0, 2]=11, [0, 1, 3]=2, [0, 1, 2]=24, [0]=53, [1, 2, 3]=18, [1, 3]=33}
+Class: 2251. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar285
+{[3]=13, [0, 1]=1, [0, 2]=29, [0, 1, 2]=13, [0]=229}
+{[3]=13, [0, 1]=1, [0, 2]=29, [0, 1, 2]=13, [0]=229}
+Class: 2515. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar73
+{[0, 1]=7, [3]=1, [0, 2]=23, [0, 1, 3]=1, [1]=1, [0, 1, 2]=26, [0]=12, [1, 2]=2}
+{[0, 1]=7, [3]=1, [0, 2]=23, [0, 1, 3]=1, [1]=1, [0, 1, 2]=26, [0]=12, [1, 2]=2}
+Class: 2660. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar158
+{[0, 1]=13, [3]=7, [0, 2]=45, [0, 1, 3]=1, [1]=1, [0, 1, 2]=25, [0]=66}
+{[0, 1]=13, [3]=7, [0, 2]=45, [0, 1, 3]=1, [1]=1, [0, 1, 2]=25, [0]=66}
+Class: 2661. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar314
+{[0, 3]=1, [3]=59, [0, 1]=16, [0, 2]=49, [1]=2, [0, 1, 2]=34, [0]=152, [2, 3]=1}
+{[0, 3]=1, [3]=59, [0, 1]=16, [0, 2]=49, [1]=2, [0, 1, 2]=34, [0]=152, [2, 3]=1}
+Class: 2707. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar154
+{[3]=13, [0, 1]=12, [0, 2]=22, [0, 1, 2]=9, [0]=98}
+{[3]=13, [0, 1]=12, [0, 2]=22, [0, 1, 2]=9, [0]=98}
+Class: 2751. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar168
+{[0, 3]=1, [0, 1]=12, [3]=1, [0, 2]=44, [0, 1, 3]=1, [0, 1, 2]=13, [0]=92, [0, 2, 3]=1, [2, 3]=2, [1, 3]=1}
+{[0, 3]=1, [0, 1]=12, [3]=1, [0, 2]=44, [0, 1, 3]=1, [0, 1, 2]=13, [0]=92, [0, 2, 3]=1, [2, 3]=2, [1, 3]=1}
+Class: 2845. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar438
+{[3]=93, [0, 1]=30, [0, 2]=55, [1]=1, [0, 1, 2]=9, [0]=249, [1, 2]=1}
+{[3]=93, [0, 1]=30, [0, 2]=55, [1]=1, [0, 1, 2]=9, [0]=249, [1, 2]=1}
+Class: 2875. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar121
+{[0, 1]=8, [0, 2]=40, [0, 1, 2]=13, [0]=59, [1, 2]=1}
+{[0, 1]=8, [0, 2]=40, [0, 1, 2]=13, [0]=59, [1, 2]=1}
+Class: 2896. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar97
+{[0, 1]=6, [3]=2, [0, 2]=24, [0, 1, 3]=1, [0, 1, 2]=21, [0]=42, [1, 3]=1}
+{[0, 1]=6, [3]=2, [0, 2]=24, [0, 1, 3]=1, [0, 1, 2]=21, [0]=42, [1, 3]=1}
+Class: 2996. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar173
+{[3]=43, [0, 1]=10, [0, 2]=25, [1]=2, [0, 1, 2]=7, [0]=86}
+{[3]=43, [0, 1]=10, [0, 2]=25, [1]=2, [0, 1, 2]=7, [0]=86}
+Class: 3010. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar204
+{[3]=7, [0, 2]=83, [0, 1, 2]=5, [0]=109}
+{[3]=7, [0, 2]=83, [0, 1, 2]=5, [0]=109}
+Class: 3074. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar363
+{[3]=6, [0, 1]=12, [0, 2]=122, [1]=4, [0, 1, 2]=41, [0]=177, [2, 3]=1}
+{[3]=6, [0, 1]=12, [0, 2]=122, [1]=4, [0, 1, 2]=41, [0]=177, [2, 3]=1}
+Class: 3123. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar293
+{[0, 1]=5, [3]=10, [0, 2]=12, [1]=5, [0, 1, 2]=12, [0]=245, [1, 2, 3]=3, [2, 3]=1}
+{[0, 1]=5, [3]=10, [0, 2]=12, [1]=5, [0, 1, 2]=12, [0]=245, [1, 2, 3]=3, [2, 3]=1}
+Class: 3129. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar437
+{[3]=16, [0, 1, 2, 3]=17, [0, 1, 3]=7, [1]=17, [0, 1, 2]=65, [0]=189, [1, 2, 3]=16, [0, 2, 3]=4, [2, 3]=5, [0, 3]=2, [0, 1]=34, [0, 2]=60, [1, 2]=1, [1, 3]=4}
+{[3]=16, [0, 1, 2, 3]=17, [0, 1, 3]=7, [1]=17, [0, 1, 2]=65, [0]=189, [1, 2, 3]=16, [0, 2, 3]=4, [2, 3]=5, [0, 3]=2, [0, 1]=34, [0, 2]=60, [1, 2]=1, [1, 3]=4}
+Class: 3155. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar196
+{[0, 3]=9, [0, 1]=32, [3]=9, [0, 1, 2, 3]=3, [0, 2]=43, [0, 1, 3]=2, [1]=2, [0, 1, 2]=44, [0]=47, [0, 2, 3]=2, [1, 2, 3]=1, [1, 3]=2}
+{[0, 3]=9, [0, 1]=32, [3]=9, [0, 1, 2, 3]=3, [0, 2]=43, [0, 1, 3]=2, [1]=2, [0, 1, 2]=44, [0]=47, [0, 2, 3]=2, [1, 2, 3]=1, [1, 3]=2}
+Class: 3157. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar609
+{[3]=161, [0, 1]=31, [0, 2]=71, [0, 1, 2]=35, [0]=311}
+{[3]=161, [0, 1]=31, [0, 2]=71, [0, 1, 2]=35, [0]=311}
+Class: 3210. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar305
+{[3]=79, [0, 1]=18, [0, 2]=34, [0, 1, 3]=1, [1]=2, [0, 1, 2]=16, [0]=155}
+{[3]=79, [0, 1]=18, [0, 2]=34, [0, 1, 3]=1, [1]=2, [0, 1, 2]=16, [0]=155}
+Class: 3222. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar88
+{[0, 1]=11, [3]=3, [0, 2]=34, [0, 1, 2]=8, [0]=32}
+{[0, 1]=11, [3]=3, [0, 2]=34, [0, 1, 2]=8, [0]=32}
+Class: 3252. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar250
+{[3]=41, [0, 1]=19, [0, 2]=52, [0, 1, 2]=18, [0]=115, [0, 2, 3]=2, [1, 2]=3}
+{[3]=41, [0, 1]=19, [0, 2]=52, [0, 1, 2]=18, [0]=115, [0, 2, 3]=2, [1, 2]=3}
+Class: 3335. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar190
+{[3]=21, [0, 1]=22, [0, 1, 2, 3]=1, [0, 2]=50, [0, 1, 3]=1, [0, 1, 2]=9, [0]=85, [2, 3]=1}
+{[3]=21, [0, 1]=22, [0, 1, 2, 3]=1, [0, 2]=50, [0, 1, 3]=1, [0, 1, 2]=9, [0]=85, [2, 3]=1}
+Class: 3360. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar468
+{[0, 3]=2, [3]=31, [0, 1]=33, [0, 2]=120, [0, 1, 3]=1, [1]=1, [0, 1, 2]=52, [0]=225, [2, 3]=3}
+{[0, 3]=2, [3]=31, [0, 1]=33, [0, 2]=120, [0, 1, 3]=1, [1]=1, [0, 1, 2]=52, [0]=225, [2, 3]=3}
+Class: 3376. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar96
+{[0, 1]=14, [3]=7, [0, 2]=20, [1]=8, [0, 1, 2]=22, [0]=18, [1, 2, 3]=2, [1, 2]=4, [1, 3]=1}
+{[0, 1]=14, [3]=7, [0, 2]=20, [1]=8, [0, 1, 2]=22, [0]=18, [1, 2, 3]=2, [1, 2]=4, [1, 3]=1}
+Class: 3425. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar185
+{[0, 3]=2, [3]=20, [0, 1]=42, [0, 2]=38, [0, 1, 2]=37, [0]=45, [0, 2, 3]=1}
+{[0, 3]=2, [3]=20, [0, 1]=42, [0, 2]=38, [0, 1, 2]=37, [0]=45, [0, 2, 3]=1}
+Class: 3426. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar212
+{[3]=29, [0, 1, 2, 3]=3, [0, 1, 3]=3, [1]=3, [0, 1, 2]=47, [0, 2, 3]=2, [0]=49, [1, 2, 3]=2, [2, 3]=2, [0, 3]=6, [0, 1]=15, [0, 2]=46, [1, 3]=5}
+{[3]=29, [0, 1, 2, 3]=3, [0, 1, 3]=3, [1]=3, [0, 1, 2]=47, [0, 2, 3]=2, [0]=49, [1, 2, 3]=2, [2, 3]=2, [0, 3]=6, [0, 1]=15, [0, 2]=46, [1, 3]=5}
+Class: 3470. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar130
+{[3]=35, [0, 1]=2, [0, 2]=25, [0, 1, 2]=17, [0]=51}
+{[3]=35, [0, 1]=2, [0, 2]=25, [0, 1, 2]=17, [0]=51}
+Class: 3480. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar438
+{[0, 3]=3, [0, 1]=80, [3]=23, [0, 2]=106, [0, 1, 2]=66, [0]=155, [0, 2, 3]=1, [2, 3]=3, [1, 3]=1}
+{[0, 3]=3, [0, 1]=80, [3]=23, [0, 2]=106, [0, 1, 2]=66, [0]=155, [0, 2, 3]=1, [2, 3]=3, [1, 3]=1}
+Class: 3486. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar117
+{[0, 1]=21, [0, 2]=15, [0, 1, 2]=13, [0]=68}
+{[0, 1]=21, [0, 2]=15, [0, 1, 2]=13, [0]=68}
+Class: 3559. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar122
+{[3]=12, [0, 1]=4, [0, 2]=40, [0, 1, 3]=1, [0, 1, 2]=28, [0]=37}
+{[3]=12, [0, 1]=4, [0, 2]=40, [0, 1, 3]=1, [0, 1, 2]=28, [0]=37}
+Class: 3579. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar162
+{[3]=14, [0, 1]=2, [0, 2]=5, [0, 1, 2]=19, [0]=122}
+{[3]=14, [0, 1]=2, [0, 2]=5, [0, 1, 2]=19, [0]=122}
+Class: 3667. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar395
+{[3]=17, [0, 1, 2, 3]=3, [0, 1, 3]=3, [1]=3, [0, 1, 2]=102, [0]=89, [1, 2, 3]=3, [0, 2, 3]=2, [2, 3]=4, [0, 3]=1, [0, 1]=50, [0, 2]=111, [1, 3]=7}
+{[3]=17, [0, 1, 2, 3]=3, [0, 1, 3]=3, [1]=3, [0, 1, 2]=102, [0]=89, [1, 2, 3]=3, [0, 2, 3]=2, [2, 3]=4, [0, 3]=1, [0, 1]=50, [0, 2]=111, [1, 3]=7}
+Class: 3697. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar106
+{[0, 3]=3, [3]=17, [0, 1]=10, [0, 1, 2, 3]=1, [0, 2]=16, [1]=1, [0, 1, 2]=27, [0]=22, [2, 3]=8, [1, 3]=1}
+{[0, 3]=3, [3]=17, [0, 1]=10, [0, 1, 2, 3]=1, [0, 2]=16, [1]=1, [0, 1, 2]=27, [0]=22, [2, 3]=8, [1, 3]=1}
+Class: 3698. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar96
+{[0, 3]=1, [3]=12, [0, 1]=8, [0, 2]=22, [0, 1, 2]=27, [0]=21, [2, 3]=2, [1, 3]=3}
+{[0, 3]=1, [3]=12, [0, 1]=8, [0, 2]=22, [0, 1, 2]=27, [0]=21, [2, 3]=2, [1, 3]=3}
+Class: 3703. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar235
+{[3]=25, [0, 1, 2, 3]=17, [0, 1, 3]=13, [1]=1, [0, 1, 2]=34, [0]=51, [0, 2, 3]=5, [1, 2, 3]=21, [2, 3]=8, [0, 3]=6, [0, 1]=17, [0, 2]=27, [1, 3]=10}
+{[3]=25, [0, 1, 2, 3]=17, [0, 1, 3]=13, [1]=1, [0, 1, 2]=34, [0]=51, [0, 2, 3]=5, [1, 2, 3]=21, [2, 3]=8, [0, 3]=6, [0, 1]=17, [0, 2]=27, [1, 3]=10}
+Class: 3708. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar102
+{[3]=7, [0, 1, 2, 3]=1, [0, 1, 3]=3, [1]=4, [0, 1, 2]=16, [1, 2, 3]=3, [0]=27, [0, 2, 3]=3, [2, 3]=2, [0, 3]=6, [0, 1]=8, [0, 2]=12, [1, 2]=3, [1, 3]=7}
+{[3]=7, [0, 1, 2, 3]=1, [0, 1, 3]=3, [1]=4, [0, 1, 2]=16, [1, 2, 3]=3, [0]=27, [0, 2, 3]=3, [2, 3]=2, [0, 3]=6, [0, 1]=8, [0, 2]=12, [1, 2]=3, [1, 3]=7}
+Class: 3842. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar475
+{[3]=60, [0, 1, 2, 3]=3, [0, 1, 3]=7, [1]=4, [0, 1, 2]=68, [0]=139, [1, 2, 3]=5, [0, 2, 3]=1, [2, 3]=6, [0, 3]=5, [0, 1]=35, [0, 2]=133, [1, 3]=9}
+{[3]=60, [0, 1, 2, 3]=3, [0, 1, 3]=7, [1]=4, [0, 1, 2]=68, [0]=139, [1, 2, 3]=5, [0, 2, 3]=1, [2, 3]=6, [0, 3]=5, [0, 1]=35, [0, 2]=133, [1, 3]=9}
+Class: 4057. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar53
+{[3]=1, [0, 1, 2, 3]=2, [0, 1, 3]=2, [1]=3, [0, 1, 2]=11, [0]=9, [0, 2, 3]=1, [1, 2, 3]=1, [2, 3]=4, [0, 3]=1, [0, 1]=7, [0, 2]=8, [1, 3]=3}
+{[3]=1, [0, 1, 2, 3]=2, [0, 1, 3]=2, [1]=3, [0, 1, 2]=11, [0]=9, [0, 2, 3]=1, [1, 2, 3]=1, [2, 3]=4, [0, 3]=1, [0, 1]=7, [0, 2]=8, [1, 3]=3}
+Class: 4076. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar103
+{[0, 3]=5, [0, 1, 2, 3]=6, [3]=3, [0, 1]=15, [0, 2]=17, [0, 1, 3]=2, [0, 1, 2]=25, [0, 2, 3]=2, [0]=15, [1, 2, 3]=2, [2, 3]=5, [1, 3]=6}
+{[0, 3]=5, [0, 1, 2, 3]=6, [3]=3, [0, 1]=15, [0, 2]=17, [0, 1, 3]=2, [0, 1, 2]=25, [0, 2, 3]=2, [0]=15, [1, 2, 3]=2, [2, 3]=5, [1, 3]=6}
+Class: 4078. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar360
+{[3]=51, [0, 1, 2, 3]=10, [0, 1, 3]=13, [1]=1, [0, 1, 2]=60, [0]=83, [1, 2, 3]=14, [0, 2, 3]=4, [2, 3]=13, [0, 3]=10, [0, 1]=25, [0, 2]=56, [1, 3]=20}
+{[3]=51, [0, 1, 2, 3]=10, [0, 1, 3]=13, [1]=1, [0, 1, 2]=60, [0]=83, [1, 2, 3]=14, [0, 2, 3]=4, [2, 3]=13, [0, 3]=10, [0, 1]=25, [0, 2]=56, [1, 3]=20}
+Class: 4117. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar88
+{[0, 3]=4, [3]=5, [0, 1, 2, 3]=1, [0, 1]=10, [0, 2]=25, [1]=4, [0, 1, 2]=22, [0]=11, [0, 2, 3]=3, [1, 2]=1, [2, 3]=2}
+{[0, 3]=4, [3]=5, [0, 1, 2, 3]=1, [0, 1]=10, [0, 2]=25, [1]=4, [0, 1, 2]=22, [0]=11, [0, 2, 3]=3, [1, 2]=1, [2, 3]=2}
+Class: 4256. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar85
+{[0, 3]=4, [3]=12, [0, 1]=10, [0, 2]=24, [0, 1, 3]=1, [1]=1, [0, 1, 2]=12, [0]=15, [0, 2, 3]=1, [1, 3]=4, [2, 3]=1}
+{[0, 3]=4, [3]=12, [0, 1]=10, [0, 2]=24, [0, 1, 3]=1, [1]=1, [0, 1, 2]=12, [0]=15, [0, 2, 3]=1, [1, 3]=4, [2, 3]=1}
+Class: 4308. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar207
+{[3]=16, [0, 1]=16, [0, 1, 2, 3]=1, [0, 2]=25, [0, 1, 2]=20, [0]=128, [1, 2, 3]=1}
+{[3]=16, [0, 1]=16, [0, 1, 2, 3]=1, [0, 2]=25, [0, 1, 2]=20, [0]=128, [1, 2, 3]=1}
+Class: 4368. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar281
+{[3]=33, [0, 1, 2, 3]=3, [0, 1, 3]=2, [1]=6, [0, 1, 2]=59, [0]=57, [0, 2, 3]=2, [1, 2, 3]=7, [2, 3]=7, [0, 3]=1, [0, 1]=38, [0, 2]=59, [1, 3]=7}
+{[3]=33, [0, 1, 2, 3]=3, [0, 1, 3]=2, [1]=6, [0, 1, 2]=59, [0]=57, [0, 2, 3]=2, [1, 2, 3]=7, [2, 3]=7, [0, 3]=1, [0, 1]=38, [0, 2]=59, [1, 3]=7}
+Class: 4390. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar421
+{[0, 3]=1, [0, 1]=114, [3]=21, [0, 2]=15, [0, 1, 3]=1, [1]=8, [0, 1, 2]=21, [0]=230, [0, 2, 3]=1, [1, 2, 3]=1, [2, 3]=3, [1, 3]=5}
+{[0, 3]=1, [0, 1]=114, [3]=21, [0, 2]=15, [0, 1, 3]=1, [1]=8, [0, 1, 2]=21, [0]=230, [0, 2, 3]=1, [1, 2, 3]=1, [2, 3]=3, [1, 3]=5}
+Class: 4435. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar85
+{[3]=5, [0, 1]=16, [0, 2]=9, [1]=1, [0, 1, 2]=10, [0]=41, [1, 2]=1, [2, 3]=2}
+{[3]=5, [0, 1]=16, [0, 2]=9, [1]=1, [0, 1, 2]=10, [0]=41, [1, 2]=1, [2, 3]=2}
+Class: 4508. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar134
+{[0, 3]=1, [0, 1]=9, [3]=3, [0, 2]=39, [0, 1, 3]=1, [0, 1, 2]=7, [0]=73, [1, 3]=1}
+{[0, 3]=1, [0, 1]=9, [3]=3, [0, 2]=39, [0, 1, 3]=1, [0, 1, 2]=7, [0]=73, [1, 3]=1}
+Class: 4517. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar131
+{[3]=5, [0, 1, 2, 3]=3, [0, 1, 3]=5, [1]=8, [0, 1, 2]=28, [0]=28, [1, 2, 3]=4, [2, 3]=3, [0, 3]=1, [0, 1]=11, [0, 2]=26, [1, 2]=3, [1, 3]=6}
+{[3]=5, [0, 1, 2, 3]=3, [0, 1, 3]=5, [1]=8, [0, 1, 2]=28, [0]=28, [1, 2, 3]=4, [2, 3]=3, [0, 3]=1, [0, 1]=11, [0, 2]=26, [1, 2]=3, [1, 3]=6}
+Class: 4547. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar346
+{[3]=52, [0, 1]=28, [0, 2]=86, [1]=1, [0, 1, 2]=8, [0]=170, [1, 2]=1}
+{[3]=52, [0, 1]=28, [0, 2]=86, [1]=1, [0, 1, 2]=8, [0]=170, [1, 2]=1}
+Class: 4634. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar107
+{[0, 3]=3, [3]=8, [0, 1]=10, [0, 2]=17, [0, 1, 2]=24, [0]=35, [2, 3]=10}
+{[0, 3]=3, [3]=8, [0, 1]=10, [0, 2]=17, [0, 1, 2]=24, [0]=35, [2, 3]=10}
+Class: 4648. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar200
+{[3]=14, [0, 1]=20, [0, 2]=53, [0, 1, 2]=27, [0]=86}
+{[3]=14, [0, 1]=20, [0, 2]=53, [0, 1, 2]=27, [0]=86}
+Class: 4855. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar105
+{[3]=12, [0, 1]=11, [0, 1, 2, 3]=1, [0, 2]=10, [1]=7, [0, 1, 2]=16, [0]=36, [0, 2, 3]=2, [1, 2, 3]=2, [1, 2]=8}
+{[3]=12, [0, 1]=11, [0, 1, 2, 3]=1, [0, 2]=10, [1]=7, [0, 1, 2]=16, [0]=36, [0, 2, 3]=2, [1, 2, 3]=2, [1, 2]=8}
+Class: 4864. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar431
+{[3]=66, [0, 1]=41, [0, 1, 2, 3]=1, [0, 2]=124, [0, 1, 3]=9, [1]=9, [0, 1, 2]=60, [0]=107, [1, 2, 3]=1, [1, 3]=13}
+{[3]=66, [0, 1]=41, [0, 1, 2, 3]=1, [0, 2]=124, [0, 1, 3]=9, [1]=9, [0, 1, 2]=60, [0]=107, [1, 2, 3]=1, [1, 3]=13}
+Class: 4883. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar711
+{[3]=215, [0, 1]=52, [0, 2]=1, [1]=4, [0, 1, 2]=6, [0]=432, [1, 2]=1}
+{[3]=215, [0, 1]=52, [0, 2]=1, [1]=4, [0, 1, 2]=6, [0]=432, [1, 2]=1}
+Class: 4888. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar56
+{[0, 3]=1, [3]=5, [0, 1]=4, [0, 1, 2, 3]=1, [0, 2]=11, [0, 1, 3]=2, [1]=1, [0, 1, 2]=20, [0]=4, [1, 2, 3]=2, [1, 2]=1, [1, 3]=4}
+{[0, 3]=1, [3]=5, [0, 1]=4, [0, 1, 2, 3]=1, [0, 2]=11, [0, 1, 3]=2, [1]=1, [0, 1, 2]=20, [0]=4, [1, 2, 3]=2, [1, 2]=1, [1, 3]=4}
+Class: 4890. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar56
+{[0, 3]=1, [0, 1]=7, [0, 2]=5, [1]=1, [0, 1, 2]=23, [0]=5, [1, 2]=13, [1, 3]=1}
+{[0, 3]=1, [0, 1]=7, [0, 2]=5, [1]=1, [0, 1, 2]=23, [0]=5, [1, 2]=13, [1, 3]=1}
+Class: 4896. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar152
+{[3]=8, [0, 1]=12, [0, 2]=40, [1]=1, [0, 1, 2]=15, [0]=74, [2, 3]=2}
+{[3]=8, [0, 1]=12, [0, 2]=40, [1]=1, [0, 1, 2]=15, [0]=74, [2, 3]=2}
+Class: 4929. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar147
+{[0, 1]=23, [3]=1, [0, 2]=39, [1]=2, [0, 1, 2]=40, [0]=41, [2, 3]=1}
+{[0, 1]=23, [3]=1, [0, 2]=39, [1]=2, [0, 1, 2]=40, [0]=41, [2, 3]=1}
+Class: 5164. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar51
+{[0, 1]=5, [3]=1, [0, 2]=12, [0, 1, 2]=6, [0]=27}
+{[0, 1]=5, [3]=1, [0, 2]=12, [0, 1, 2]=6, [0]=27}
+Class: 5204. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar70
+{[0, 1]=10, [3]=4, [0, 2]=14, [0, 1, 2]=22, [0]=20}
+{[0, 1]=10, [3]=4, [0, 2]=14, [0, 1, 2]=22, [0]=20}
+Class: 5219. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar96
+{[0, 3]=2, [3]=6, [0, 1]=8, [0, 1, 2, 3]=1, [0, 2]=11, [0, 1, 3]=3, [0, 1, 2]=26, [0]=30, [0, 2, 3]=1, [1, 2, 3]=3, [2, 3]=4, [1, 3]=1}
+{[0, 3]=2, [3]=6, [0, 1]=8, [0, 1, 2, 3]=1, [0, 2]=11, [0, 1, 3]=3, [0, 1, 2]=26, [0]=30, [0, 2, 3]=1, [1, 2, 3]=3, [2, 3]=4, [1, 3]=1}
+Class: 5247. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar137
+{[0, 3]=6, [3]=11, [0, 1]=10, [0, 2]=36, [0, 1, 3]=3, [1]=7, [0, 1, 2]=22, [0, 2, 3]=3, [0]=34, [1, 3]=5}
+{[0, 3]=6, [3]=11, [0, 1]=10, [0, 2]=36, [0, 1, 3]=3, [1]=7, [0, 1, 2]=22, [0, 2, 3]=3, [0]=34, [1, 3]=5}
+Class: 5267. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar208
+{[0, 3]=3, [3]=33, [0, 1]=31, [0, 2]=44, [0, 1, 3]=1, [1]=1, [0, 1, 2]=38, [1, 2, 3]=2, [0]=48, [0, 2, 3]=1, [1, 3]=4, [2, 3]=2}
+{[0, 3]=3, [3]=33, [0, 1]=31, [0, 2]=44, [0, 1, 3]=1, [1]=1, [0, 1, 2]=38, [1, 2, 3]=2, [0]=48, [0, 2, 3]=1, [1, 3]=4, [2, 3]=2}
+Class: 5337. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar174
+{[3]=25, [0, 1]=14, [0, 1, 2, 3]=2, [0, 2]=34, [0, 1, 3]=1, [1]=1, [0, 1, 2]=36, [0]=58, [1, 3]=3}
+{[3]=25, [0, 1]=14, [0, 1, 2, 3]=2, [0, 2]=34, [0, 1, 3]=1, [1]=1, [0, 1, 2]=36, [0]=58, [1, 3]=3}
+Class: 5406. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar241
+{[0, 1]=22, [0, 2]=34, [1]=5, [0, 1, 2]=11, [0]=167, [2, 3]=2}
+{[0, 1]=22, [0, 2]=34, [1]=5, [0, 1, 2]=11, [0]=167, [2, 3]=2}
+Class: 5479. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar663
+{[3]=36, [0, 1, 2, 3]=23, [0, 1, 3]=39, [1]=23, [0, 1, 2]=16, [2]=1, [0]=291, [0, 2, 3]=16, [1, 2, 3]=18, [2, 3]=21, [0, 3]=26, [0, 1]=101, [0, 2]=8, [1, 2]=4, [1, 3]=40}
+{[3]=36, [0, 1, 2, 3]=23, [0, 1, 3]=39, [1]=23, [0, 1, 2]=16, [2]=1, [0]=291, [0, 2, 3]=16, [1, 2, 3]=18, [2, 3]=21, [0, 3]=26, [0, 1]=101, [0, 2]=8, [1, 2]=4, [1, 3]=40}
+Class: 5496. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar214
+{[0, 3]=8, [3]=28, [0, 1, 2, 3]=3, [0, 1]=22, [0, 2]=31, [0, 1, 3]=8, [0, 1, 2]=28, [0]=41, [1, 2, 3]=3, [0, 2, 3]=4, [1, 3]=12, [2, 3]=26}
+{[0, 3]=8, [3]=28, [0, 1, 2, 3]=3, [0, 1]=22, [0, 2]=31, [0, 1, 3]=8, [0, 1, 2]=28, [0]=41, [1, 2, 3]=3, [0, 2, 3]=4, [1, 3]=12, [2, 3]=26}
+Class: 5518. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar97
+{[3]=16, [0, 1, 2, 3]=1, [0, 2]=26, [0, 1, 3]=1, [1]=2, [0, 1, 2]=21, [0]=28, [0, 2, 3]=1, [2, 3]=1}
+{[3]=16, [0, 1, 2, 3]=1, [0, 2]=26, [0, 1, 3]=1, [1]=2, [0, 1, 2]=21, [0]=28, [0, 2, 3]=1, [2, 3]=1}
+Class: 5677. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar100
+{[3]=14, [0, 1, 2, 3]=6, [0, 1, 3]=12, [1]=2, [0, 1, 2]=14, [0]=13, [0, 2, 3]=3, [1, 2, 3]=1, [2, 3]=6, [0, 3]=5, [0, 1]=10, [0, 2]=9, [1, 3]=5}
+{[3]=14, [0, 1, 2, 3]=6, [0, 1, 3]=12, [1]=2, [0, 1, 2]=14, [0]=13, [0, 2, 3]=3, [1, 2, 3]=1, [2, 3]=6, [0, 3]=5, [0, 1]=10, [0, 2]=9, [1, 3]=5}
+Class: 5734. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar123
+{[0, 3]=5, [3]=5, [0, 1]=15, [0, 1, 2, 3]=5, [0, 2]=17, [0, 1, 3]=7, [0, 1, 2]=20, [0]=37, [0, 2, 3]=3, [1, 2, 3]=3, [2, 3]=4, [1, 3]=2}
+{[0, 3]=5, [3]=5, [0, 1]=15, [0, 1, 2, 3]=5, [0, 2]=17, [0, 1, 3]=7, [0, 1, 2]=20, [0]=37, [0, 2, 3]=3, [1, 2, 3]=3, [2, 3]=4, [1, 3]=2}
+Class: 5812. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar301
+{[3]=8, [0, 1, 2, 3]=3, [0, 1, 3]=8, [1]=1, [0, 1, 2]=51, [0]=65, [0, 2, 3]=4, [1, 2, 3]=10, [2, 3]=41, [0, 3]=8, [0, 1]=18, [0, 2]=77, [1, 3]=7}
+{[3]=8, [0, 1, 2, 3]=3, [0, 1, 3]=8, [1]=1, [0, 1, 2]=51, [0]=65, [0, 2, 3]=4, [1, 2, 3]=10, [2, 3]=41, [0, 3]=8, [0, 1]=18, [0, 2]=77, [1, 3]=7}
+Class: 5980. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar446
+{[0, 1]=25, [3]=11, [0, 2]=98, [1]=1, [0, 1, 2]=11, [0]=300}
+{[0, 1]=25, [3]=11, [0, 2]=98, [1]=1, [0, 1, 2]=11, [0]=300}
+Class: 6135. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar120
+{[3]=5, [0, 1, 2, 3]=3, [0, 1, 3]=2, [1]=3, [0, 1, 2]=21, [0, 2, 3]=5, [0]=20, [1, 2, 3]=4, [2, 3]=6, [0, 3]=1, [0, 1]=13, [0, 2]=27, [1, 2]=1, [1, 3]=9}
+{[3]=5, [0, 1, 2, 3]=3, [0, 1, 3]=2, [1]=3, [0, 1, 2]=21, [0, 2, 3]=5, [0]=20, [1, 2, 3]=4, [2, 3]=6, [0, 3]=1, [0, 1]=13, [0, 2]=27, [1, 2]=1, [1, 3]=9}
+Class: 6183. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar101
+{[0, 1, 2, 3]=5, [3]=3, [0, 1, 3]=12, [1]=2, [0, 1, 2]=20, [2]=1, [1, 2, 3]=3, [0]=16, [0, 2, 3]=2, [2, 3]=6, [0, 3]=1, [0, 1]=10, [0, 2]=13, [1, 2]=2, [1, 3]=5}
+{[0, 1, 2, 3]=5, [3]=3, [0, 1, 3]=12, [1]=2, [0, 1, 2]=20, [2]=1, [1, 2, 3]=3, [0]=16, [0, 2, 3]=2, [2, 3]=6, [0, 3]=1, [0, 1]=10, [0, 2]=13, [1, 2]=2, [1, 3]=5}
+Class: 6278. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar387
+{[3]=19, [0, 1, 2, 3]=9, [0, 1, 3]=21, [1]=4, [0, 1, 2]=81, [0]=104, [1, 2, 3]=10, [0, 2, 3]=2, [2, 3]=14, [0, 3]=2, [0, 1]=64, [0, 2]=33, [1, 3]=24}
+{[3]=19, [0, 1, 2, 3]=9, [0, 1, 3]=21, [1]=4, [0, 1, 2]=81, [0]=104, [1, 2, 3]=10, [0, 2, 3]=2, [2, 3]=14, [0, 3]=2, [0, 1]=64, [0, 2]=33, [1, 3]=24}
+Class: 6303. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar114
+{[0, 3]=2, [0, 1]=24, [3]=3, [0, 2]=8, [0, 1, 3]=5, [0, 1, 2]=11, [1, 2, 3]=20, [0]=13, [0, 2, 3]=1, [2, 3]=5, [1, 3]=22}
+{[0, 3]=2, [0, 1]=24, [3]=3, [0, 2]=8, [0, 1, 3]=5, [0, 1, 2]=11, [1, 2, 3]=20, [0]=13, [0, 2, 3]=1, [2, 3]=5, [1, 3]=22}
+Class: 6319. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar291
+{[0, 1]=88, [3]=1, [0, 2]=78, [0, 1, 3]=3, [1]=5, [0, 1, 2]=29, [0]=83, [0, 2, 3]=1, [1, 2]=3}
+{[0, 1]=88, [3]=1, [0, 2]=78, [0, 1, 3]=3, [1]=5, [0, 1, 2]=29, [0]=83, [0, 2, 3]=1, [1, 2]=3}
+Class: 6321. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar85
+{[3]=26, [0, 1]=2, [0, 2]=15, [1]=1, [0, 1, 2]=7, [0]=34}
+{[3]=26, [0, 1]=2, [0, 2]=15, [1]=1, [0, 1, 2]=7, [0]=34}
+Class: 6336. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar175
+{[3]=48, [0, 1]=5, [0, 2]=25, [0]=97}
+{[3]=48, [0, 1]=5, [0, 2]=25, [0]=97}
+Class: 6453. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar118
+{[3]=3, [0, 1]=9, [0, 2]=52, [0, 1, 3]=1, [0, 1, 2]=23, [0]=29, [2, 3]=1}
+{[3]=3, [0, 1]=9, [0, 2]=52, [0, 1, 3]=1, [0, 1, 2]=23, [0]=29, [2, 3]=1}
+Class: 6466. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar75
+{[0, 1]=9, [0, 2]=22, [0, 1, 2]=23, [0]=18, [1, 2]=3}
+{[0, 1]=9, [0, 2]=22, [0, 1, 2]=23, [0]=18, [1, 2]=3}
+Class: 6927. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar119
+{[3]=6, [0, 1, 2, 3]=1, [0, 1, 3]=2, [1]=4, [0, 1, 2]=20, [0]=18, [1, 2, 3]=1, [0, 2, 3]=1, [2, 3]=5, [0, 3]=1, [0, 1]=29, [0, 2]=20, [1, 2]=3, [1, 3]=8}
+{[3]=6, [0, 1, 2, 3]=1, [0, 1, 3]=2, [1]=4, [0, 1, 2]=20, [0]=18, [1, 2, 3]=1, [0, 2, 3]=1, [2, 3]=5, [0, 3]=1, [0, 1]=29, [0, 2]=20, [1, 2]=3, [1, 3]=8}
+Class: 8091. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar97
+{[0, 3]=1, [3]=12, [0, 1]=16, [0, 1, 2, 3]=1, [0, 2]=15, [0, 1, 3]=3, [0, 1, 2]=27, [0]=20, [2, 3]=2}
+{[0, 3]=1, [3]=12, [0, 1]=16, [0, 1, 2, 3]=1, [0, 2]=15, [0, 1, 3]=3, [0, 1, 2]=27, [0]=20, [2, 3]=2}
+Class: 8404. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar206
+{[3]=47, [0, 1]=15, [0, 2]=39, [0]=105}
+{[3]=47, [0, 1]=15, [0, 2]=39, [0]=105}
+Class: 8833. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar143
+{[3]=43, [0, 1]=6, [0, 2]=14, [0, 1, 3]=1, [0, 1, 2]=22, [0]=48, [1, 2, 3]=6, [1, 3]=2, [2, 3]=1}
+{[3]=43, [0, 1]=6, [0, 2]=14, [0, 1, 3]=1, [0, 1, 2]=22, [0]=48, [1, 2, 3]=6, [1, 3]=2, [2, 3]=1}
+Class: 8941. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar100
+{[3]=8, [0, 1]=8, [0, 2]=22, [0, 1, 3]=1, [1]=5, [0, 1, 2]=21, [0]=33, [0, 2, 3]=1, [2, 3]=1}
+{[3]=8, [0, 1]=8, [0, 2]=22, [0, 1, 3]=1, [1]=5, [0, 1, 2]=21, [0]=33, [0, 2, 3]=1, [2, 3]=1}
+Class: 9677. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar154
+{[3]=13, [0, 1]=11, [0, 2]=36, [0, 1, 2]=15, [0]=79}
+{[3]=13, [0, 1]=11, [0, 2]=36, [0, 1, 2]=15, [0]=79}
+Class: 10034. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar118
+{[0, 3]=1, [3]=24, [0, 1]=4, [0, 1, 2, 3]=1, [0, 2]=20, [0, 1, 3]=1, [0, 1, 2]=25, [0]=39, [2, 3]=2, [1, 3]=1}
+{[0, 3]=1, [3]=24, [0, 1]=4, [0, 1, 2, 3]=1, [0, 2]=20, [0, 1, 3]=1, [0, 1, 2]=25, [0]=39, [2, 3]=2, [1, 3]=1}
+Class: 10094. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar117
+{[0, 3]=2, [3]=18, [0, 1]=12, [0, 1, 2, 3]=3, [0, 2]=11, [0, 1, 3]=4, [0, 1, 2]=8, [0]=47, [1, 2, 3]=3, [1, 2]=1, [1, 3]=8}
+{[0, 3]=2, [3]=18, [0, 1]=12, [0, 1, 2, 3]=3, [0, 2]=11, [0, 1, 3]=4, [0, 1, 2]=8, [0]=47, [1, 2, 3]=3, [1, 2]=1, [1, 3]=8}
+Class: 10107. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar153
+{[3]=3, [0, 1, 2, 3]=3, [0, 1, 3]=8, [1]=4, [0, 1, 2]=29, [1, 2, 3]=2, [0]=30, [0, 2, 3]=3, [2, 3]=3, [0, 3]=2, [0, 1]=19, [0, 2]=27, [1, 2]=3, [1, 3]=17}
+{[3]=3, [0, 1, 2, 3]=3, [0, 1, 3]=8, [1]=4, [0, 1, 2]=29, [1, 2, 3]=2, [0]=30, [0, 2, 3]=3, [2, 3]=3, [0, 3]=2, [0, 1]=19, [0, 2]=27, [1, 2]=3, [1, 3]=17}
+Class: 10153. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar113
+{[3]=13, [0, 1, 2, 3]=2, [0, 1]=6, [0, 2]=14, [1]=9, [0, 1, 2]=34, [0]=22, [1, 2, 3]=3, [1, 2]=2, [1, 3]=2, [2, 3]=6}
+{[3]=13, [0, 1, 2, 3]=2, [0, 1]=6, [0, 2]=14, [1]=9, [0, 1, 2]=34, [0]=22, [1, 2, 3]=3, [1, 2]=2, [1, 3]=2, [2, 3]=6}
+Class: 10176. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar139
+{[3]=5, [0, 1, 2, 3]=3, [0, 1, 3]=8, [1]=3, [0, 1, 2]=37, [0]=33, [1, 2, 3]=6, [0, 2, 3]=6, [2, 3]=3, [0, 3]=3, [0, 1]=8, [0, 2]=19, [1, 3]=5}
+{[3]=5, [0, 1, 2, 3]=3, [0, 1, 3]=8, [1]=3, [0, 1, 2]=37, [0]=33, [1, 2, 3]=6, [0, 2, 3]=6, [2, 3]=3, [0, 3]=3, [0, 1]=8, [0, 2]=19, [1, 3]=5}
+Class: 10222. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar342
+{[0, 1]=6, [0, 2]=61, [1]=1, [0, 1, 2]=4, [0]=270}
+{[0, 1]=6, [0, 2]=61, [1]=1, [0, 1, 2]=4, [0]=270}
+Class: 10248. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar239
+{[3]=22, [0, 1]=44, [0, 1, 2, 3]=7, [0, 2]=23, [0, 1, 3]=19, [1]=1, [0, 1, 2]=28, [1, 2, 3]=11, [0]=49, [0, 2, 3]=2, [1, 3]=27, [2, 3]=6}
+{[3]=22, [0, 1]=44, [0, 1, 2, 3]=7, [0, 2]=23, [0, 1, 3]=19, [1]=1, [0, 1, 2]=28, [1, 2, 3]=11, [0]=49, [0, 2, 3]=2, [1, 3]=27, [2, 3]=6}
+Class: 10367. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar147
+{[0, 3]=1, [0, 1]=34, [3]=3, [0, 2]=26, [0, 1, 3]=2, [1]=2, [0, 1, 2]=19, [0]=57, [1, 2]=1, [2, 3]=2}
+{[0, 3]=1, [0, 1]=34, [3]=3, [0, 2]=26, [0, 1, 3]=2, [1]=2, [0, 1, 2]=19, [0]=57, [1, 2]=1, [2, 3]=2}
+Class: 10410. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar466
+{[0, 3]=1, [3]=11, [0, 1]=18, [0, 1, 2, 3]=1, [0, 2]=192, [1]=10, [0, 1, 3]=1, [0, 1, 2]=42, [0]=190}
+{[0, 3]=1, [3]=11, [0, 1]=18, [0, 1, 2, 3]=1, [0, 2]=192, [1]=10, [0, 1, 3]=1, [0, 1, 2]=42, [0]=190}
+Class: 10445. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar127
+{[0, 1]=18, [3]=6, [0, 2]=14, [0, 1, 2]=10, [0]=78, [2, 3]=1}
+{[0, 1]=18, [3]=6, [0, 2]=14, [0, 1, 2]=10, [0]=78, [2, 3]=1}
+Class: 10522. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar265
+{[3]=33, [0, 1]=26, [0, 2]=104, [0, 1, 2]=29, [0]=72, [1, 2, 3]=1}
+{[3]=33, [0, 1]=26, [0, 2]=104, [0, 1, 2]=29, [0]=72, [1, 2, 3]=1}
+Class: 10616. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar148
+{[0, 3]=13, [3]=5, [0, 1, 2, 3]=5, [0, 1]=3, [0, 2]=27, [0, 1, 3]=9, [0, 1, 2]=8, [0]=64, [0, 2, 3]=1, [1, 2, 3]=1, [1, 3]=8, [2, 3]=4}
+{[0, 3]=13, [3]=5, [0, 1, 2, 3]=5, [0, 1]=3, [0, 2]=27, [0, 1, 3]=9, [0, 1, 2]=8, [0]=64, [0, 2, 3]=1, [1, 2, 3]=1, [1, 3]=8, [2, 3]=4}
+Class: 10832. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar56
+{[0, 3]=2, [0, 1]=4, [0, 1, 2, 3]=2, [0, 2]=6, [0, 1, 3]=3, [0, 1, 2]=19, [1, 2, 3]=9, [0]=2, [1, 2]=1, [1, 3]=6, [2, 3]=2}
+{[0, 3]=2, [0, 1]=4, [0, 1, 2, 3]=2, [0, 2]=6, [0, 1, 3]=3, [0, 1, 2]=19, [1, 2, 3]=9, [0]=2, [1, 2]=1, [1, 3]=6, [2, 3]=2}
+Class: 10971. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar152
+{[3]=15, [0, 1, 2, 3]=1, [0, 1, 3]=1, [1]=2, [0, 1, 2]=21, [0]=32, [0, 2, 3]=2, [1, 2, 3]=2, [2, 3]=8, [0, 3]=5, [0, 1]=9, [0, 2]=53, [1, 3]=1}
+{[3]=15, [0, 1, 2, 3]=1, [0, 1, 3]=1, [1]=2, [0, 1, 2]=21, [0]=32, [0, 2, 3]=2, [1, 2, 3]=2, [2, 3]=8, [0, 3]=5, [0, 1]=9, [0, 2]=53, [1, 3]=1}
+Class: 10974. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar134
+{[3]=8, [0, 1, 2, 3]=2, [0, 1, 3]=2, [1]=5, [0, 1, 2]=23, [2]=1, [0]=46, [1, 2, 3]=2, [0, 2, 3]=1, [2, 3]=3, [0, 3]=1, [0, 1]=13, [0, 2]=22, [1, 2]=2, [1, 3]=3}
+{[3]=8, [0, 1, 2, 3]=2, [0, 1, 3]=2, [1]=5, [0, 1, 2]=23, [2]=1, [0]=46, [1, 2, 3]=2, [0, 2, 3]=1, [2, 3]=3, [0, 3]=1, [0, 1]=13, [0, 2]=22, [1, 2]=2, [1, 3]=3}
+Class: 11006. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar117
+{[0, 1]=11, [3]=7, [0, 2]=18, [1]=3, [0, 1, 2]=22, [0]=56}
+{[0, 1]=11, [3]=7, [0, 2]=18, [1]=3, [0, 1, 2]=22, [0]=56}
+Class: 11029. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar97
+{[0, 1]=16, [0, 2]=24, [0, 1, 2]=11, [0]=46}
+{[0, 1]=16, [0, 2]=24, [0, 1, 2]=11, [0]=46}
+Class: 11053. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar100
+{[0, 1, 2, 3]=8, [3]=3, [0, 1]=10, [0, 2]=28, [1]=7, [0, 1, 2]=16, [1, 2, 3]=4, [0, 2, 3]=3, [0]=16, [1, 2]=2, [2, 3]=3}
+{[0, 1, 2, 3]=8, [3]=3, [0, 1]=10, [0, 2]=28, [1]=7, [0, 1, 2]=16, [1, 2, 3]=4, [0, 2, 3]=3, [0]=16, [1, 2]=2, [2, 3]=3}
+Class: 11074. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar129
+{[0, 3]=1, [0, 1]=27, [0, 1, 2, 3]=2, [0, 2]=12, [0, 1, 3]=2, [1]=3, [0, 1, 2]=21, [0]=47, [1, 2, 3]=4, [1, 3]=7, [2, 3]=3}
+{[0, 3]=1, [0, 1]=27, [0, 1, 2, 3]=2, [0, 2]=12, [0, 1, 3]=2, [1]=3, [0, 1, 2]=21, [0]=47, [1, 2, 3]=4, [1, 3]=7, [2, 3]=3}
+Class: 11112. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar57
+{[0, 3]=1, [0, 1, 2, 3]=1, [0, 1]=6, [3]=3, [0, 2]=10, [0, 1, 3]=3, [0, 1, 2]=14, [1, 2, 3]=5, [0, 2, 3]=2, [0]=9, [1, 3]=3}
+{[0, 3]=1, [0, 1, 2, 3]=1, [0, 1]=6, [3]=3, [0, 2]=10, [0, 1, 3]=3, [0, 1, 2]=14, [1, 2, 3]=5, [0, 2, 3]=2, [0]=9, [1, 3]=3}
+Class: 11143. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar105
+{[3]=1, [0, 1, 2, 3]=4, [0, 1, 3]=15, [1]=2, [0, 1, 2]=18, [0]=12, [1, 2, 3]=7, [0, 2, 3]=1, [2, 3]=3, [0, 3]=2, [0, 1]=6, [0, 2]=25, [1, 3]=9}
+{[3]=1, [0, 1, 2, 3]=4, [0, 1, 3]=15, [1]=2, [0, 1, 2]=18, [0]=12, [1, 2, 3]=7, [0, 2, 3]=1, [2, 3]=3, [0, 3]=2, [0, 1]=6, [0, 2]=25, [1, 3]=9}
+Class: 11205. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar131
+{[3]=36, [0, 1]=7, [0, 2]=7, [1]=1, [0, 1, 2]=13, [0]=67}
+{[3]=36, [0, 1]=7, [0, 2]=7, [1]=1, [0, 1, 2]=13, [0]=67}
+Class: 11212. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar73
+{[0, 3]=3, [0, 1]=5, [3]=11, [0, 1, 2, 3]=1, [0, 2]=9, [1]=3, [0, 1, 2]=12, [0]=28, [0, 2, 3]=1}
+{[0, 3]=3, [0, 1]=5, [3]=11, [0, 1, 2, 3]=1, [0, 2]=9, [1]=3, [0, 1, 2]=12, [0]=28, [0, 2, 3]=1}
+Class: 11275. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar201
+{[3]=61, [0, 1]=5, [0, 2]=28, [0, 1, 2]=18, [0]=89}
+{[3]=61, [0, 1]=5, [0, 2]=28, [0, 1, 2]=18, [0]=89}
+Class: 11295. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar157
+{[3]=4, [0, 1]=21, [0, 1, 2, 3]=2, [0, 2]=34, [0, 1, 3]=7, [1]=5, [0, 1, 2]=30, [0]=38, [1, 2, 3]=1, [1, 3]=11, [2, 3]=4}
+{[3]=4, [0, 1]=21, [0, 1, 2, 3]=2, [0, 2]=34, [0, 1, 3]=7, [1]=5, [0, 1, 2]=30, [0]=38, [1, 2, 3]=1, [1, 3]=11, [2, 3]=4}
+Class: 11896. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar67
+{[3]=3, [0, 1]=15, [0, 1, 2, 3]=1, [0, 2]=9, [0, 1, 2]=4, [0]=31, [1, 2, 3]=1, [0, 2, 3]=1, [1, 2]=1, [2, 3]=1}
+{[3]=3, [0, 1]=15, [0, 1, 2, 3]=1, [0, 2]=9, [0, 1, 2]=4, [0]=31, [1, 2, 3]=1, [0, 2, 3]=1, [1, 2]=1, [2, 3]=1}
+Class: 12321. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar85
+{[0, 3]=1, [3]=6, [0, 1]=8, [0, 2]=38, [0, 1, 2]=7, [0]=25}
+{[0, 3]=1, [3]=6, [0, 1]=8, [0, 2]=38, [0, 1, 2]=7, [0]=25}
+Class: 12681. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar136
+{[3]=56, [0, 1]=4, [0, 2]=7, [0, 1, 2]=1, [0]=68}
+{[3]=56, [0, 1]=4, [0, 2]=7, [0, 1, 2]=1, [0]=68}
+Class: 12942. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar452
+{[3]=43, [0, 1]=20, [0, 2]=200, [0, 1, 2]=13, [0]=176}
+{[3]=43, [0, 1]=20, [0, 2]=200, [0, 1, 2]=13, [0]=176}
+Class: 13081. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar133
+{[3]=22, [0, 1, 2, 3]=3, [0, 1]=13, [0, 2]=25, [0, 1, 3]=1, [0, 1, 2]=5, [0]=49, [0, 2, 3]=2, [1, 2, 3]=7, [1, 3]=5, [2, 3]=1}
+{[3]=22, [0, 1, 2, 3]=3, [0, 1]=13, [0, 2]=25, [0, 1, 3]=1, [0, 1, 2]=5, [0]=49, [0, 2, 3]=2, [1, 2, 3]=7, [1, 3]=5, [2, 3]=1}
+Class: 13436. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar142
+{[3]=23, [0, 1]=14, [0, 2]=10, [1]=1, [0, 1, 2]=15, [0]=78, [1, 2]=1}
+{[3]=23, [0, 1]=14, [0, 2]=10, [1]=1, [0, 1, 2]=15, [0]=78, [1, 2]=1}
+Class: 14452. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar189
+{[3]=12, [0, 1]=17, [0, 2]=59, [0, 1, 2]=2, [0]=99}
+{[3]=12, [0, 1]=17, [0, 2]=59, [0, 1, 2]=2, [0]=99}
+Class: 14470. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar103
+{[3]=6, [0, 1]=9, [0, 2]=25, [0, 1, 2]=22, [0]=40, [1, 3]=1}
+{[3]=6, [0, 1]=9, [0, 2]=25, [0, 1, 2]=22, [0]=40, [1, 3]=1}
+Class: 14814. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar254
+{[3]=15, [0, 1, 2, 3]=2, [0, 1, 3]=4, [1]=10, [0, 1, 2]=17, [0]=142, [0, 2, 3]=3, [1, 2, 3]=1, [2, 3]=1, [0, 3]=2, [0, 1]=41, [0, 2]=13, [1, 2]=1, [1, 3]=2}
+{[3]=15, [0, 1, 2, 3]=2, [0, 1, 3]=4, [1]=10, [0, 1, 2]=17, [0]=142, [0, 2, 3]=3, [1, 2, 3]=1, [2, 3]=1, [0, 3]=2, [0, 1]=41, [0, 2]=13, [1, 2]=1, [1, 3]=2}
+Class: 14918. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar58
+{[0, 3]=1, [3]=3, [0, 1]=4, [0, 2]=12, [0, 1, 3]=1, [1]=1, [0, 1, 2]=12, [0]=22, [1, 2]=1, [1, 3]=1}
+{[0, 3]=1, [3]=3, [0, 1]=4, [0, 2]=12, [0, 1, 3]=1, [1]=1, [0, 1, 2]=12, [0]=22, [1, 2]=1, [1, 3]=1}
+Class: 15566. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar323
+{[3]=51, [0, 1]=9, [0, 2]=68, [0, 1, 2]=5, [0]=190}
+{[3]=51, [0, 1]=9, [0, 2]=68, [0, 1, 2]=5, [0]=190}
+Class: 16464. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar139
+{[0, 3]=2, [0, 1]=26, [3]=1, [0, 1, 2, 3]=5, [0, 2]=26, [0, 1, 3]=4, [1]=6, [0, 1, 2]=30, [1, 2, 3]=3, [0]=28, [2, 3]=4, [1, 3]=4}
+{[0, 3]=2, [0, 1]=26, [3]=1, [0, 1, 2, 3]=5, [0, 2]=26, [0, 1, 3]=4, [1]=6, [0, 1, 2]=30, [1, 2, 3]=3, [0]=28, [2, 3]=4, [1, 3]=4}
+Class: 16931. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar91
+{[0, 3]=2, [0, 1, 2, 3]=4, [0, 1]=6, [0, 2]=18, [0, 1, 3]=3, [0, 1, 2]=22, [0, 2, 3]=4, [0]=8, [1, 2, 3]=6, [2, 3]=11, [1, 3]=7}
+{[0, 3]=2, [0, 1, 2, 3]=4, [0, 1]=6, [0, 2]=18, [0, 1, 3]=3, [0, 1, 2]=22, [0, 2, 3]=4, [0]=8, [1, 2, 3]=6, [2, 3]=11, [1, 3]=7}
+Class: 18190. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar306
+{[0, 1, 2, 3]=1, [3]=14, [0, 1, 3]=4, [1]=6, [0, 1, 2]=46, [0]=109, [1, 2, 3]=6, [2, 3]=3, [0, 3]=3, [0, 1]=36, [0, 2]=69, [1, 2]=2, [1, 3]=7}
+{[0, 1, 2, 3]=1, [3]=14, [0, 1, 3]=4, [1]=6, [0, 1, 2]=46, [0]=109, [1, 2, 3]=6, [2, 3]=3, [0, 3]=3, [0, 1]=36, [0, 2]=69, [1, 2]=2, [1, 3]=7}
+Class: 18426. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar209
+{[0, 1]=10, [3]=1, [0, 2]=79, [0, 1, 2]=12, [0]=107}
+{[0, 1]=10, [3]=1, [0, 2]=79, [0, 1, 2]=12, [0]=107}
+Class: 18564. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar409
+{[0, 3]=5, [0, 1]=31, [3]=4, [0, 2]=187, [1]=1, [0, 1, 2]=16, [0]=162, [1, 3]=1, [2, 3]=2}
+{[0, 3]=5, [0, 1]=31, [3]=4, [0, 2]=187, [1]=1, [0, 1, 2]=16, [0]=162, [1, 3]=1, [2, 3]=2}
+Class: 18623. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar139
+{[3]=19, [0, 1]=14, [0, 1, 2, 3]=3, [0, 2]=19, [0, 1, 3]=6, [0, 1, 2]=4, [0]=59, [1, 2, 3]=1, [1, 3]=13, [2, 3]=1}
+{[3]=19, [0, 1]=14, [0, 1, 2, 3]=3, [0, 2]=19, [0, 1, 3]=6, [0, 1, 2]=4, [0]=59, [1, 2, 3]=1, [1, 3]=13, [2, 3]=1}
+Class: 18768. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar189
+{[0, 3]=5, [3]=36, [0, 1, 2, 3]=2, [0, 1]=14, [0, 2]=26, [0, 1, 3]=6, [0, 1, 2]=27, [0]=53, [0, 2, 3]=3, [1, 2, 3]=2, [2, 3]=8, [1, 3]=7}
+{[0, 3]=5, [3]=36, [0, 1, 2, 3]=2, [0, 1]=14, [0, 2]=26, [0, 1, 3]=6, [0, 1, 2]=27, [0]=53, [0, 2, 3]=3, [1, 2, 3]=2, [2, 3]=8, [1, 3]=7}
+Class: 19082. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar262
+{[0, 1]=10, [0, 1, 2, 3]=1, [0, 2]=98, [1]=3, [0, 1, 2]=8, [0]=142}
+{[0, 1]=10, [0, 1, 2, 3]=1, [0, 2]=98, [1]=3, [0, 1, 2]=8, [0]=142}
+Class: 19285. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar271
+{[3]=72, [0, 1]=18, [0, 2]=48, [0, 1, 2]=10, [0]=122, [1, 3]=1}
+{[3]=72, [0, 1]=18, [0, 2]=48, [0, 1, 2]=10, [0]=122, [1, 3]=1}
+Class: 19293. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar240
+{[3]=39, [0, 1]=11, [0, 2]=29, [0, 1, 2]=15, [0]=146}
+{[3]=39, [0, 1]=11, [0, 2]=29, [0, 1, 2]=15, [0]=146}
+Class: 19378. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar398
+{[3]=57, [0, 1]=11, [0, 2]=110, [0, 1, 2]=20, [0]=200}
+{[3]=57, [0, 1]=11, [0, 2]=110, [0, 1, 2]=20, [0]=200}
+Class: 19531. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar134
+{[3]=48, [0, 1]=2, [0, 2]=8, [0, 1, 2]=1, [0]=75}
+{[3]=48, [0, 1]=2, [0, 2]=8, [0, 1, 2]=1, [0]=75}
+Class: 19565. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar114
+{[3]=29, [0, 1]=9, [0, 2]=6, [0, 1, 2]=3, [0]=67}
+{[3]=29, [0, 1]=9, [0, 2]=6, [0, 1, 2]=3, [0]=67}
+Class: 19665. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar243
+{[3]=65, [0, 1]=33, [0, 2]=28, [0, 1, 2]=5, [0]=112}
+{[3]=65, [0, 1]=33, [0, 2]=28, [0, 1, 2]=5, [0]=112}
+Class: 19709. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar611
+{[3]=60, [0, 1]=30, [0, 2]=117, [1]=1, [0, 1, 2]=47, [0]=355, [1, 2]=1}
+{[3]=60, [0, 1]=30, [0, 2]=117, [1]=1, [0, 1, 2]=47, [0]=355, [1, 2]=1}
+Class: 19755. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar364
+{[0, 3]=5, [0, 1]=53, [3]=22, [0, 2]=105, [0, 1, 3]=10, [0, 1, 2]=51, [1, 2, 3]=8, [0]=85, [0, 2, 3]=1, [1, 3]=21, [2, 3]=3}
+{[0, 3]=5, [0, 1]=53, [3]=22, [0, 2]=105, [0, 1, 3]=10, [0, 1, 2]=51, [1, 2, 3]=8, [0]=85, [0, 2, 3]=1, [1, 3]=21, [2, 3]=3}
+Class: 19807. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar95
+{[3]=26, [0, 1]=6, [0, 2]=23, [0, 1, 3]=1, [0, 1, 2]=9, [1, 2, 3]=1, [0]=27, [2, 3]=1, [1, 3]=1}
+{[3]=26, [0, 1]=6, [0, 2]=23, [0, 1, 3]=1, [0, 1, 2]=9, [1, 2, 3]=1, [0]=27, [2, 3]=1, [1, 3]=1}
+Class: 19857. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar143
+{[3]=52, [0, 1]=2, [0, 2]=12, [0, 1, 2]=4, [0]=73}
+{[3]=52, [0, 1]=2, [0, 2]=12, [0, 1, 2]=4, [0]=73}
+Class: 20104. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar113
+{[3]=11, [0, 1]=11, [0, 2]=10, [0, 1, 3]=1, [1]=6, [0, 1, 2]=21, [0]=52, [1, 3]=1}
+{[3]=11, [0, 1]=11, [0, 2]=10, [0, 1, 3]=1, [1]=6, [0, 1, 2]=21, [0]=52, [1, 3]=1}
+Class: 22142. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar201
+{[0, 3]=2, [3]=17, [0, 1]=22, [0, 2]=37, [0, 1, 3]=6, [1]=1, [0, 1, 2]=29, [0]=77, [0, 2, 3]=1, [1, 3]=8, [2, 3]=1}
+{[0, 3]=2, [3]=17, [0, 1]=22, [0, 2]=37, [0, 1, 3]=6, [1]=1, [0, 1, 2]=29, [0]=77, [0, 2, 3]=1, [1, 3]=8, [2, 3]=1}
+Class: 25406. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar131
+{[0, 1]=11, [3]=2, [0, 2]=33, [0, 1, 2]=3, [0]=82}
+{[0, 1]=11, [3]=2, [0, 2]=33, [0, 1, 2]=3, [0]=82}
+Class: 25459. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar99
+{[3]=13, [0, 1]=5, [0, 2]=13, [1]=1, [0, 1, 2]=8, [0]=59}
+{[3]=13, [0, 1]=5, [0, 2]=13, [1]=1, [0, 1, 2]=8, [0]=59}
+Class: 26856. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar64
+{[3]=2, [0, 1]=5, [0, 2]=9, [0, 1, 2]=26, [0]=17, [1, 2, 3]=1, [1, 3]=3, [2, 3]=1}
+{[3]=2, [0, 1]=5, [0, 2]=9, [0, 1, 2]=26, [0]=17, [1, 2, 3]=1, [1, 3]=3, [2, 3]=1}
+Class: 28375. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar219
+{[0, 3]=1, [3]=33, [0, 1, 2, 3]=8, [0, 1]=11, [0, 2]=44, [0, 1, 3]=2, [0, 1, 2]=23, [0]=72, [1, 2, 3]=19, [0, 2, 3]=1, [1, 3]=2, [2, 3]=3}
+{[0, 3]=1, [3]=33, [0, 1, 2, 3]=8, [0, 1]=11, [0, 2]=44, [0, 1, 3]=2, [0, 1, 2]=23, [0]=72, [1, 2, 3]=19, [0, 2, 3]=1, [1, 3]=2, [2, 3]=3}
+Class: 28399. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar97
+{[0, 1]=17, [3]=3, [0, 2]=8, [0, 1, 2]=2, [0]=67}
+{[0, 1]=17, [3]=3, [0, 2]=8, [0, 1, 2]=2, [0]=67}
+Class: 28406. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar141
+{[3]=31, [0, 1]=9, [0, 2]=20, [0, 1, 2]=25, [0]=56}
+{[3]=31, [0, 1]=9, [0, 2]=20, [0, 1, 2]=25, [0]=56}
+Class: 29105. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar375
+{[0, 3]=1, [3]=55, [0, 1]=36, [0, 2]=140, [0, 1, 2]=14, [0]=129}
+{[0, 3]=1, [3]=55, [0, 1]=36, [0, 2]=140, [0, 1, 2]=14, [0]=129}
+Class: 30006. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar94
+{[0, 1]=8, [3]=2, [0, 2]=22, [0, 1, 3]=2, [0, 1, 2]=14, [0]=44, [1, 3]=1, [2, 3]=1}
+{[0, 1]=8, [3]=2, [0, 2]=22, [0, 1, 3]=2, [0, 1, 2]=14, [0]=44, [1, 3]=1, [2, 3]=1}
+Class: 32389. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar109
+{[0, 1]=13, [3]=3, [0, 1, 2, 3]=3, [0, 2]=16, [0, 1, 3]=2, [0, 1, 2]=18, [0]=47, [1, 2, 3]=2, [2, 3]=1, [1, 3]=4}
+{[0, 1]=13, [3]=3, [0, 1, 2, 3]=3, [0, 2]=16, [0, 1, 3]=2, [0, 1, 2]=18, [0]=47, [1, 2, 3]=2, [2, 3]=1, [1, 3]=4}
+Class: 33495. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar111
+{[0, 3]=1, [3]=26, [0, 1]=4, [0, 1, 2, 3]=1, [0, 2]=14, [0, 1, 2]=11, [0]=53, [1, 2]=1}
+{[0, 3]=1, [3]=26, [0, 1]=4, [0, 1, 2, 3]=1, [0, 2]=14, [0, 1, 2]=11, [0]=53, [1, 2]=1}
+Class: 33782. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar78
+{[0, 3]=3, [0, 1]=3, [0, 2]=15, [0, 1, 3]=4, [1]=6, [0, 1, 2]=19, [0]=21, [1, 2, 3]=1, [1, 3]=4, [2, 3]=2}
+{[0, 3]=3, [0, 1]=3, [0, 2]=15, [0, 1, 3]=4, [1]=6, [0, 1, 2]=19, [0]=21, [1, 2, 3]=1, [1, 3]=4, [2, 3]=2}
+Class: 33834. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar78
+{[0, 3]=4, [0, 1, 2, 3]=4, [3]=5, [0, 1]=6, [0, 2]=9, [0, 1, 3]=5, [1]=3, [0, 1, 2]=16, [0]=14, [0, 2, 3]=1, [1, 3]=7, [2, 3]=4}
+{[0, 3]=4, [0, 1, 2, 3]=4, [3]=5, [0, 1]=6, [0, 2]=9, [0, 1, 3]=5, [1]=3, [0, 1, 2]=16, [0]=14, [0, 2, 3]=1, [1, 3]=7, [2, 3]=4}
+Class: 36075. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar98
+{[0, 3]=1, [3]=19, [0, 1]=7, [0, 1, 2, 3]=1, [0, 2]=12, [0, 1, 3]=1, [1]=1, [0, 1, 2]=29, [0]=24, [1, 2]=2, [1, 3]=1}
+{[0, 3]=1, [3]=19, [0, 1]=7, [0, 1, 2, 3]=1, [0, 2]=12, [0, 1, 3]=1, [1]=1, [0, 1, 2]=29, [0]=24, [1, 2]=2, [1, 3]=1}
+Class: 36712. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar130
+{[3]=13, [0, 1]=8, [0, 2]=9, [0, 1, 3]=1, [0, 1, 2]=14, [2]=1, [0]=81, [1, 2]=1, [1, 3]=2}
+{[3]=13, [0, 1]=8, [0, 2]=9, [0, 1, 3]=1, [0, 1, 2]=14, [2]=1, [0]=81, [1, 2]=1, [1, 3]=2}
+Class: 37398. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar94
+{[0, 1]=1, [0, 2]=15, [0, 1, 2]=4, [0]=74}
+{[0, 1]=1, [0, 2]=15, [0, 1, 2]=4, [0]=74}
+Class: 38089. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar136
+{[3]=45, [0, 1]=2, [0, 2]=11, [0, 1, 2]=2, [0]=76}
+{[3]=45, [0, 1]=2, [0, 2]=11, [0, 1, 2]=2, [0]=76}
+Class: 38364. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar305
+{[3]=46, [0, 1]=18, [0, 2]=81, [0, 1, 2]=14, [0]=146}
+{[3]=46, [0, 1]=18, [0, 2]=81, [0, 1, 2]=14, [0]=146}
+Class: 38481. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar231
+{[0, 1]=21, [0, 2]=46, [0, 1, 2]=8, [0]=156}
+{[0, 1]=21, [0, 2]=46, [0, 1, 2]=8, [0]=156}
+Class: 38515. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar311
+{[0, 1]=4, [0, 2]=64, [0, 1, 2]=2, [0]=241}
+{[0, 1]=4, [0, 2]=64, [0, 1, 2]=2, [0]=241}
+Class: 38546. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar220
+{[3]=69, [0, 1]=2, [0, 2]=25, [0, 1, 2]=5, [0]=119}
+{[3]=69, [0, 1]=2, [0, 2]=25, [0, 1, 2]=5, [0]=119}
+Class: 38681. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar142
+{[3]=4, [0, 1]=4, [0, 2]=38, [0, 1, 2]=9, [0]=87}
+{[3]=4, [0, 1]=4, [0, 2]=38, [0, 1, 2]=9, [0]=87}
+Class: 38818. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar146
+{[3]=26, [0, 1]=6, [0, 2]=50, [0, 1, 2]=7, [0]=56, [1, 2]=1}
+{[3]=26, [0, 1]=6, [0, 2]=50, [0, 1, 2]=7, [0]=56, [1, 2]=1}
+Class: 39016. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar172
+{[3]=13, [0, 1]=19, [0, 1, 2, 3]=7, [0, 2]=23, [0, 1, 2]=14, [0]=90, [1, 2, 3]=3, [1, 3]=3}
+{[3]=13, [0, 1]=19, [0, 1, 2, 3]=7, [0, 2]=23, [0, 1, 2]=14, [0]=90, [1, 2, 3]=3, [1, 3]=3}
+Class: 39547. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar231
+{[3]=53, [0, 1]=11, [0, 2]=4, [0, 1, 3]=2, [0, 1, 2]=2, [0]=159}
+{[3]=53, [0, 1]=11, [0, 2]=4, [0, 1, 3]=2, [0, 1, 2]=2, [0]=159}
+Class: 39557. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar195
+{[3]=49, [0, 1]=5, [0, 2]=28, [0, 1, 2]=18, [0]=93, [1, 3]=2}
+{[3]=49, [0, 1]=5, [0, 2]=28, [0, 1, 2]=18, [0]=93, [1, 3]=2}
+Class: 39561. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar111
+{[3]=10, [0, 1, 2, 3]=6, [0, 1, 3]=3, [1]=5, [0, 1, 2]=14, [2]=1, [0]=44, [0, 2, 3]=1, [2, 3]=2, [0, 3]=1, [0, 1]=10, [0, 2]=12, [1, 2]=1, [1, 3]=1}
+{[3]=10, [0, 1, 2, 3]=6, [0, 1, 3]=3, [1]=5, [0, 1, 2]=14, [2]=1, [0]=44, [0, 2, 3]=1, [2, 3]=2, [0, 3]=1, [0, 1]=10, [0, 2]=12, [1, 2]=1, [1, 3]=1}
+Class: 39613. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar425
+{[3]=33, [0, 1]=36, [0, 1, 2, 3]=1, [0, 2]=87, [0, 1, 3]=6, [1]=1, [0, 1, 2]=72, [0]=179, [1, 2, 3]=2, [1, 2]=1, [2, 3]=5, [1, 3]=2}
+{[3]=33, [0, 1]=36, [0, 1, 2, 3]=1, [0, 2]=87, [0, 1, 3]=6, [1]=1, [0, 1, 2]=72, [0]=179, [1, 2, 3]=2, [1, 2]=1, [2, 3]=5, [1, 3]=2}
+Class: 39622. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar123
+{[3]=7, [0, 1]=10, [0, 2]=31, [0, 1, 2]=9, [0]=66}
+{[3]=7, [0, 1]=10, [0, 2]=31, [0, 1, 2]=9, [0]=66}
+Class: 39628. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar146
+{[0, 3]=4, [3]=7, [0, 1]=24, [0, 1, 2, 3]=3, [0, 2]=33, [1]=2, [0, 1, 3]=2, [0, 1, 2]=31, [0]=36, [1, 3]=4}
+{[0, 3]=4, [3]=7, [0, 1]=24, [0, 1, 2, 3]=3, [0, 2]=33, [1]=2, [0, 1, 3]=2, [0, 1, 2]=31, [0]=36, [1, 3]=4}
+Class: 39631. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar101
+{[3]=5, [0, 1]=13, [0, 1, 2, 3]=1, [0, 2]=20, [0, 1, 3]=1, [0, 1, 2]=21, [0]=26, [1, 2, 3]=2, [2, 3]=8, [1, 3]=4}
+{[3]=5, [0, 1]=13, [0, 1, 2, 3]=1, [0, 2]=20, [0, 1, 3]=1, [0, 1, 2]=21, [0]=26, [1, 2, 3]=2, [2, 3]=8, [1, 3]=4}
+Class: 39648. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar490
+{[0, 3]=1, [3]=24, [0, 1]=30, [0, 2]=58, [0, 1, 3]=1, [0, 1, 2]=72, [0]=278, [2, 3]=26}
+{[0, 3]=1, [3]=24, [0, 1]=30, [0, 2]=58, [0, 1, 3]=1, [0, 1, 2]=72, [0]=278, [2, 3]=26}
+Class: 39723. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar206
+{[3]=46, [0, 1]=48, [0, 2]=17, [0, 1, 3]=2, [1]=2, [0, 1, 2]=25, [0]=56, [1, 3]=7, [2, 3]=3}
+{[3]=46, [0, 1]=48, [0, 2]=17, [0, 1, 3]=2, [1]=2, [0, 1, 2]=25, [0]=56, [1, 3]=7, [2, 3]=3}
+Class: 41577. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar104
+{[0, 1]=6, [0, 1, 2, 3]=1, [0, 2]=23, [0, 1, 2]=31, [0]=39, [2, 3]=2, [1, 3]=2}
+{[0, 1]=6, [0, 1, 2, 3]=1, [0, 2]=23, [0, 1, 2]=31, [0]=39, [2, 3]=2, [1, 3]=2}
+Class: 45244. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar99
+{[3]=8, [0, 2]=16, [0, 1, 3]=14, [0, 1, 2]=7, [0]=53, [2, 3]=1}
+{[3]=8, [0, 2]=16, [0, 1, 3]=14, [0, 1, 2]=7, [0]=53, [2, 3]=1}
+Class: 47987. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar194
+{[0, 3]=2, [3]=36, [0, 1]=20, [0, 2]=22, [0, 1, 3]=3, [0, 1, 2]=19, [0]=85, [1, 3]=7}
+{[0, 3]=2, [3]=36, [0, 1]=20, [0, 2]=22, [0, 1, 3]=3, [0, 1, 2]=19, [0]=85, [1, 3]=7}
+Class: 48534. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar186
+{[3]=55, [0, 1]=6, [0, 2]=20, [0, 1, 2]=5, [0]=100}
+{[3]=55, [0, 1]=6, [0, 2]=20, [0, 1, 2]=5, [0]=100}
+Class: 48657. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar98
+{[0, 3]=2, [3]=29, [0, 1]=3, [0, 2]=16, [0, 1, 3]=1, [0, 1, 2]=15, [0]=29, [1, 2, 3]=2, [1, 3]=1}
+{[0, 3]=2, [3]=29, [0, 1]=3, [0, 2]=16, [0, 1, 3]=1, [0, 1, 2]=15, [0]=29, [1, 2, 3]=2, [1, 3]=1}
+Class: 49101. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar117
+{[0, 2]=2, [0, 1, 2]=1, [0]=114}
+{[0, 2]=2, [0, 1, 2]=1, [0]=114}
+Class: 49103. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar245
+{[3]=14, [0, 1]=2, [0, 2]=35, [0, 1, 2]=4, [0]=190}
+{[3]=14, [0, 1]=2, [0, 2]=35, [0, 1, 2]=4, [0]=190}
+Class: 49804. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar173
+{[0, 1]=25, [0, 2]=23, [0, 1, 2]=15, [0]=110}
+{[0, 1]=25, [0, 2]=23, [0, 1, 2]=15, [0]=110}
+Class: 49918. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar380
+{[0, 1]=22, [3]=9, [0, 2]=80, [0, 1, 3]=3, [0, 1, 2]=25, [0]=239, [1, 3]=2}
+{[0, 1]=22, [3]=9, [0, 2]=80, [0, 1, 3]=3, [0, 1, 2]=25, [0]=239, [1, 3]=2}
+Class: 56524. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar242
+{[3]=51, [0, 1]=10, [0, 2]=26, [0, 1, 2]=24, [0]=131}
+{[3]=51, [0, 1]=10, [0, 2]=26, [0, 1, 2]=24, [0]=131}
+Class: 57158. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar145
+{[0, 1]=17, [0, 2]=52, [0]=76}
+{[0, 1]=17, [0, 2]=52, [0]=76}
+Class: 59959. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar75
+{[0, 1]=5, [0, 2]=18, [0, 1, 2]=13, [0]=39}
+{[0, 1]=5, [0, 2]=18, [0, 1, 2]=13, [0]=39}
+Class: 69144. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar134
+{[0, 3]=1, [0, 1]=26, [3]=17, [0, 2]=26, [0, 1, 2]=18, [0]=45, [0, 2, 3]=1}
+{[0, 3]=1, [0, 1]=26, [3]=17, [0, 2]=26, [0, 1, 2]=18, [0]=45, [0, 2, 3]=1}
+Class: 69181. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar73
+{[3]=1, [0, 1, 2, 3]=1, [0, 1, 3]=2, [1]=1, [0, 1, 2]=15, [0]=31, [1, 2, 3]=3, [2, 3]=5, [0, 3]=1, [0, 1]=1, [0, 2]=9, [1, 2]=1, [1, 3]=2}
+{[3]=1, [0, 1, 2, 3]=1, [0, 1, 3]=2, [1]=1, [0, 1, 2]=15, [0]=31, [1, 2, 3]=3, [2, 3]=5, [0, 3]=1, [0, 1]=1, [0, 2]=9, [1, 2]=1, [1, 3]=2}
+Class: 69729. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar146
+{[0, 3]=1, [3]=23, [0, 1]=14, [0, 2]=40, [0, 1, 3]=4, [0, 1, 2]=17, [0]=45, [0, 2, 3]=1, [1, 3]=1}
+{[0, 3]=1, [3]=23, [0, 1]=14, [0, 2]=40, [0, 1, 3]=4, [0, 1, 2]=17, [0]=45, [0, 2, 3]=1, [1, 3]=1}
+Class: 71244. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar82
+{[3]=3, [0, 1]=8, [0, 2]=31, [1]=4, [0, 1, 2]=20, [0]=14, [1, 3]=1, [2, 3]=1}
+{[3]=3, [0, 1]=8, [0, 2]=31, [1]=4, [0, 1, 2]=20, [0]=14, [1, 3]=1, [2, 3]=1}
+Class: 82947. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar144
+{[3]=16, [0, 1]=29, [0, 2]=26, [0, 1, 2]=6, [0]=57, [2, 3]=10}
+{[3]=16, [0, 1]=29, [0, 2]=26, [0, 1, 2]=6, [0]=57, [2, 3]=10}
+Class: 84943. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar131
+{[3]=25, [0, 1]=3, [0, 2]=16, [1]=2, [0, 1, 2]=23, [0]=56, [0, 2, 3]=1, [1, 2]=1, [1, 3]=2, [2, 3]=2}
+{[3]=25, [0, 1]=3, [0, 2]=16, [1]=2, [0, 1, 2]=23, [0]=56, [0, 2, 3]=1, [1, 2]=1, [1, 3]=2, [2, 3]=2}
+Class: 87275. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar173
+{[3]=7, [0, 1, 2, 3]=11, [0, 1, 3]=12, [1]=2, [0, 1, 2]=26, [1, 2, 3]=17, [0]=18, [0, 2, 3]=10, [2, 3]=2, [0, 3]=5, [0, 1]=18, [0, 2]=13, [1, 2]=1, [1, 3]=31}
+{[3]=7, [0, 1, 2, 3]=11, [0, 1, 3]=12, [1]=2, [0, 1, 2]=26, [1, 2, 3]=17, [0]=18, [0, 2, 3]=10, [2, 3]=2, [0, 3]=5, [0, 1]=18, [0, 2]=13, [1, 2]=1, [1, 3]=31}
+Class: 89850. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar152
+{[0, 3]=6, [3]=21, [0, 1]=21, [0, 1, 2, 3]=2, [0, 2]=11, [0, 1, 3]=8, [1]=1, [0, 1, 2]=23, [0]=36, [0, 2, 3]=1, [1, 3]=13, [2, 3]=9}
+{[0, 3]=6, [3]=21, [0, 1]=21, [0, 1, 2, 3]=2, [0, 2]=11, [0, 1, 3]=8, [1]=1, [0, 1, 2]=23, [0]=36, [0, 2, 3]=1, [1, 3]=13, [2, 3]=9}
+Class: 89958. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar160
+{[3]=33, [0, 1]=9, [0, 1, 2, 3]=1, [0, 2]=8, [0, 1, 3]=7, [1]=1, [0, 1, 2]=5, [0]=94, [1, 2, 3]=1, [0, 2, 3]=1}
+{[3]=33, [0, 1]=9, [0, 1, 2, 3]=1, [0, 2]=8, [0, 1, 3]=7, [1]=1, [0, 1, 2]=5, [0]=94, [1, 2, 3]=1, [0, 2, 3]=1}
+Class: 90754. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar99
+{[3]=6, [0, 1]=2, [0, 2]=48, [0, 1, 2]=13, [0]=29, [1, 3]=1}
+{[3]=6, [0, 1]=2, [0, 2]=48, [0, 1, 2]=13, [0]=29, [1, 3]=1}
+Class: 100174. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar535
+{[0, 3]=1, [3]=51, [0, 1]=80, [0, 2]=118, [1]=2, [0, 1, 2]=48, [0]=232, [0, 2, 3]=1, [2, 3]=1, [1, 3]=1}
+{[0, 3]=1, [3]=51, [0, 1]=80, [0, 2]=118, [1]=2, [0, 1, 2]=48, [0]=232, [0, 2, 3]=1, [2, 3]=1, [1, 3]=1}
+Class: 100470. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar83
+{[3]=16, [0, 1, 2, 3]=1, [0, 1]=2, [0, 2]=22, [0, 1, 2]=5, [0]=35, [1, 2, 3]=1, [1, 3]=1}
+{[3]=16, [0, 1, 2, 3]=1, [0, 1]=2, [0, 2]=22, [0, 1, 2]=5, [0]=35, [1, 2, 3]=1, [1, 3]=1}
+Class: 101542. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar164
+{[0, 3]=5, [3]=36, [0, 1, 2, 3]=1, [0, 1]=13, [0, 2]=18, [0, 1, 3]=8, [1]=5, [0, 1, 2]=20, [0]=54, [1, 2, 3]=2, [1, 3]=2}
+{[0, 3]=5, [3]=36, [0, 1, 2, 3]=1, [0, 1]=13, [0, 2]=18, [0, 1, 3]=8, [1]=5, [0, 1, 2]=20, [0]=54, [1, 2, 3]=2, [1, 3]=2}
+Class: 102640. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar130
+{[0, 3]=2, [3]=21, [0, 1]=9, [0, 1, 2, 3]=2, [0, 2]=21, [0, 1, 3]=1, [1]=4, [0, 1, 2]=12, [0]=56, [1, 3]=2}
+{[0, 3]=2, [3]=21, [0, 1]=9, [0, 1, 2, 3]=2, [0, 2]=21, [0, 1, 3]=1, [1]=4, [0, 1, 2]=12, [0]=56, [1, 3]=2}
+Class: 102829. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar165
+{[0, 3]=1, [3]=26, [0, 1]=9, [0, 1, 2, 3]=2, [0, 2]=12, [0, 1, 3]=1, [1]=1, [0, 1, 2]=2, [0]=107, [1, 2, 3]=1, [1, 3]=2, [2, 3]=1}
+{[0, 3]=1, [3]=26, [0, 1]=9, [0, 1, 2, 3]=2, [0, 2]=12, [0, 1, 3]=1, [1]=1, [0, 1, 2]=2, [0]=107, [1, 2, 3]=1, [1, 3]=2, [2, 3]=1}
+Class: 102869. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar127
+{[3]=14, [0, 1, 2, 3]=2, [0, 1, 3]=8, [1]=1, [0, 1, 2]=15, [0, 2, 3]=16, [0]=20, [1, 2, 3]=3, [2, 3]=5, [0, 3]=10, [0, 1]=14, [0, 2]=9, [1, 3]=10}
+{[3]=14, [0, 1, 2, 3]=2, [0, 1, 3]=8, [1]=1, [0, 1, 2]=15, [0, 2, 3]=16, [0]=20, [1, 2, 3]=3, [2, 3]=5, [0, 3]=10, [0, 1]=14, [0, 2]=9, [1, 3]=10}
+Class: 103387. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar224
+{[3]=46, [0, 1]=4, [0, 2]=41, [0, 1, 2]=7, [0]=125, [1, 3]=1}
+{[3]=46, [0, 1]=4, [0, 2]=41, [0, 1, 2]=7, [0]=125, [1, 3]=1}
+Class: 103549. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar173
+{[3]=39, [0, 1]=22, [0, 2]=16, [0, 1, 2]=9, [0]=87}
+{[3]=39, [0, 1]=22, [0, 2]=16, [0, 1, 2]=9, [0]=87}
+Class: 103737. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar136
+{[0, 1]=8, [0, 2]=18, [0, 1, 2]=5, [0]=105}
+{[0, 1]=8, [0, 2]=18, [0, 1, 2]=5, [0]=105}
+Class: 103840. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar119
+{[3]=36, [0, 1]=4, [0, 2]=13, [0, 1, 2]=9, [0]=57}
+{[3]=36, [0, 1]=4, [0, 2]=13, [0, 1, 2]=9, [0]=57}
+Class: 103924. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar437
+{[3]=166, [0, 1]=15, [0, 2]=66, [0, 1, 3]=1, [0, 1, 2]=42, [0]=146, [1, 3]=1}
+{[3]=166, [0, 1]=15, [0, 2]=66, [0, 1, 3]=1, [0, 1, 2]=42, [0]=146, [1, 3]=1}
+Class: 104139. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar124
+{[3]=10, [0, 1]=4, [0, 2]=10, [0, 1, 3]=2, [0, 1, 2]=34, [0]=61, [2, 3]=3}
+{[3]=10, [0, 1]=4, [0, 2]=10, [0, 1, 3]=2, [0, 1, 2]=34, [0]=61, [2, 3]=3}
+Class: 104312. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar377
+{[0, 1]=9, [3]=1, [0, 1, 2, 3]=3, [0, 2]=101, [0, 1, 3]=1, [0, 1, 2]=16, [0]=236, [1, 2, 3]=6, [0, 2, 3]=2, [2, 3]=2}
+{[0, 1]=9, [3]=1, [0, 1, 2, 3]=3, [0, 2]=101, [0, 1, 3]=1, [0, 1, 2]=16, [0]=236, [1, 2, 3]=6, [0, 2, 3]=2, [2, 3]=2}
+Class: 104758. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar128
+{[3]=12, [0, 1]=8, [0, 2]=22, [0, 1, 2]=7, [0]=79}
+{[3]=12, [0, 1]=8, [0, 2]=22, [0, 1, 2]=7, [0]=79}
+Class: 104769. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar181
+{[0, 1]=11, [0, 2]=47, [1]=2, [0, 1, 2]=9, [0]=112}
+{[0, 1]=11, [0, 2]=47, [1]=2, [0, 1, 2]=9, [0]=112}
+Class: 104921. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar143
+{[0, 1]=11, [3]=2, [0, 2]=13, [0]=117}
+{[0, 1]=11, [3]=2, [0, 2]=13, [0]=117}
+Class: 105825. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar142
+{[3]=27, [0, 1]=7, [0, 2]=29, [1]=1, [0, 1, 2]=9, [0]=69}
+{[3]=27, [0, 1]=7, [0, 2]=29, [1]=1, [0, 1, 2]=9, [0]=69}
+Class: 106123. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar202
+{[0, 3]=1, [3]=42, [0, 1]=18, [0, 2]=66, [1]=1, [0, 1, 2]=9, [0]=64, [1, 2, 3]=1}
+{[0, 3]=1, [3]=42, [0, 1]=18, [0, 2]=66, [1]=1, [0, 1, 2]=9, [0]=64, [1, 2, 3]=1}
+Class: 106154. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar188
+{[3]=79, [0, 1]=21, [0, 2]=27, [0, 1, 3]=2, [0, 1, 2]=24, [0]=30, [1, 2, 3]=2, [1, 3]=3}
+{[3]=79, [0, 1]=21, [0, 2]=27, [0, 1, 3]=2, [0, 1, 2]=24, [0]=30, [1, 2, 3]=2, [1, 3]=3}
+Class: 106163. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar157
+{[3]=44, [0, 1]=12, [0, 2]=25, [0, 1, 2]=14, [0]=62}
+{[3]=44, [0, 1]=12, [0, 2]=25, [0, 1, 2]=14, [0]=62}
+Class: 106541. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar188
+{[3]=31, [0, 1]=8, [0, 2]=10, [0, 1, 3]=1, [0, 1, 2]=4, [0]=134}
+{[3]=31, [0, 1]=8, [0, 2]=10, [0, 1, 3]=1, [0, 1, 2]=4, [0]=134}
+Class: 107009. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar100
+{[3]=18, [0, 1]=9, [0, 2]=10, [1]=2, [0, 1, 2]=26, [0]=32, [1, 2, 3]=1, [1, 2]=1, [1, 3]=1}
+{[3]=18, [0, 1]=9, [0, 2]=10, [1]=2, [0, 1, 2]=26, [0]=32, [1, 2, 3]=1, [1, 2]=1, [1, 3]=1}
+Class: 107182. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar181
+{[3]=49, [0, 1]=13, [0, 2]=28, [0, 1, 2]=7, [0]=84}
+{[3]=49, [0, 1]=13, [0, 2]=28, [0, 1, 2]=7, [0]=84}
+Class: 107206. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar122
+{[3]=51, [0, 1]=6, [0, 1, 2, 3]=2, [0, 2]=4, [0, 1, 3]=1, [0, 1, 2]=5, [0]=36, [0, 2, 3]=1, [1, 2, 3]=3, [1, 3]=9, [2, 3]=4}
+{[3]=51, [0, 1]=6, [0, 1, 2, 3]=2, [0, 2]=4, [0, 1, 3]=1, [0, 1, 2]=5, [0]=36, [0, 2, 3]=1, [1, 2, 3]=3, [1, 3]=9, [2, 3]=4}
+Class: 107623. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar122
+{[3]=15, [0, 1]=14, [0, 2]=16, [0, 1, 2]=1, [0]=75, [2, 3]=1}
+{[3]=15, [0, 1]=14, [0, 2]=16, [0, 1, 2]=1, [0]=75, [2, 3]=1}
+Class: 108117. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar248
+{[3]=30, [0, 1]=5, [0, 2]=78, [0, 1, 2]=15, [0]=120}
+{[3]=30, [0, 1]=5, [0, 2]=78, [0, 1, 2]=15, [0]=120}
+Class: 108131. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar240
+{[3]=10, [0, 1]=27, [0, 2]=28, [0, 1, 3]=1, [1]=1, [0, 1, 2]=21, [0]=141, [1, 2, 3]=4, [0, 2, 3]=1, [2, 3]=4, [1, 3]=2}
+{[3]=10, [0, 1]=27, [0, 2]=28, [0, 1, 3]=1, [1]=1, [0, 1, 2]=21, [0]=141, [1, 2, 3]=4, [0, 2, 3]=1, [2, 3]=4, [1, 3]=2}
+Class: 108841. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar182
+{[3]=43, [0, 1]=6, [0, 2]=23, [0, 1, 2]=3, [0]=107}
+{[3]=43, [0, 1]=6, [0, 2]=23, [0, 1, 2]=3, [0]=107}
+Class: 109625. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar201
+{[3]=4, [0, 1]=7, [0, 2]=86, [0, 1, 2]=28, [0]=76}
+{[3]=4, [0, 1]=7, [0, 2]=86, [0, 1, 2]=28, [0]=76}
+Class: 110523. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar221
+{[0, 3]=16, [3]=7, [0, 1]=33, [0, 1, 2, 3]=3, [0, 2]=50, [0, 1, 3]=7, [0, 1, 2]=25, [0]=54, [0, 2, 3]=5, [1, 2, 3]=3, [2, 3]=9, [1, 3]=9}
+{[0, 3]=16, [3]=7, [0, 1]=33, [0, 1, 2, 3]=3, [0, 2]=50, [0, 1, 3]=7, [0, 1, 2]=25, [0]=54, [0, 2, 3]=5, [1, 2, 3]=3, [2, 3]=9, [1, 3]=9}
+Class: 110953. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar134
+{[3]=26, [0, 1]=9, [0, 2]=16, [0, 1, 3]=1, [0, 1, 2]=8, [0]=74}
+{[3]=26, [0, 1]=9, [0, 2]=16, [0, 1, 3]=1, [0, 1, 2]=8, [0]=74}
+Class: 110975. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar120
+{[0, 3]=2, [3]=16, [0, 1]=5, [0, 2]=22, [0, 1, 3]=2, [1]=1, [0, 1, 2]=21, [0]=45, [1, 2, 3]=1, [0, 2, 3]=2, [1, 3]=1, [2, 3]=2}
+{[0, 3]=2, [3]=16, [0, 1]=5, [0, 2]=22, [0, 1, 3]=2, [1]=1, [0, 1, 2]=21, [0]=45, [1, 2, 3]=1, [0, 2, 3]=2, [1, 3]=1, [2, 3]=2}
+Class: 111979. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar100
+{[0, 3]=2, [0, 1]=17, [3]=11, [0, 2]=14, [0, 1, 3]=1, [0, 1, 2]=24, [0]=30, [2, 3]=1}
+{[0, 3]=2, [0, 1]=17, [3]=11, [0, 2]=14, [0, 1, 3]=1, [0, 1, 2]=24, [0]=30, [2, 3]=1}
+Class: 113194. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar343
+{[0, 3]=1, [3]=67, [0, 1]=14, [0, 1, 2, 3]=1, [0, 2]=36, [0, 1, 3]=1, [0, 1, 2]=37, [0]=174, [1, 2, 3]=4, [2, 3]=7, [1, 3]=1}
+{[0, 3]=1, [3]=67, [0, 1]=14, [0, 1, 2, 3]=1, [0, 2]=36, [0, 1, 3]=1, [0, 1, 2]=37, [0]=174, [1, 2, 3]=4, [2, 3]=7, [1, 3]=1}
+Class: 113411. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar406
+{[3]=88, [0, 1]=49, [0, 2]=35, [0, 1, 2]=36, [0]=198}
+{[3]=88, [0, 1]=49, [0, 2]=35, [0, 1, 2]=36, [0]=198}
+Class: 116441. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar80
+{[0, 1]=17, [3]=1, [0, 1, 2, 3]=1, [0, 2]=20, [1]=2, [0, 1, 2]=9, [0]=29, [1, 2]=1}
+{[0, 1]=17, [3]=1, [0, 1, 2, 3]=1, [0, 2]=20, [1]=2, [0, 1, 2]=9, [0]=29, [1, 2]=1}
+Class: 118449. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar112
+{[3]=9, [0, 2]=1, [0]=102}
+{[3]=9, [0, 2]=1, [0]=102}
+Class: 119314. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar218
+{[3]=15, [0, 1]=13, [0, 2]=20, [0, 1, 2]=1, [0]=169}
+{[3]=15, [0, 1]=13, [0, 2]=20, [0, 1, 2]=1, [0]=169}
+Class: 119425. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar131
+{[0, 1]=23, [3]=1, [0, 2]=15, [0, 1, 2]=15, [0]=77}
+{[0, 1]=23, [3]=1, [0, 2]=15, [0, 1, 2]=15, [0]=77}
+Class: 119431. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar281
+{[3]=6, [0, 1]=8, [0, 2]=71, [0, 1, 2]=4, [0]=192}
+{[3]=6, [0, 1]=8, [0, 2]=71, [0, 1, 2]=4, [0]=192}
+Class: 121146. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar117
+{[0, 3]=2, [0, 1]=4, [3]=5, [0, 1, 2, 3]=1, [0, 2]=11, [0, 1, 3]=2, [0, 1, 2]=9, [0]=71, [0, 2, 3]=4, [1, 2, 3]=1, [2, 3]=1, [1, 3]=6}
+{[0, 3]=2, [0, 1]=4, [3]=5, [0, 1, 2, 3]=1, [0, 2]=11, [0, 1, 3]=2, [0, 1, 2]=9, [0]=71, [0, 2, 3]=4, [1, 2, 3]=1, [2, 3]=1, [1, 3]=6}
+Class: 121970. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar142
+{[3]=20, [0, 1]=2, [0, 2]=17, [0]=103}
+{[3]=20, [0, 1]=2, [0, 2]=17, [0]=103}
+Class: 122357. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar111
+{[3]=8, [0, 1]=9, [0, 2]=13, [1]=3, [0, 1, 2]=17, [0]=59, [1, 2]=1, [2, 3]=1}
+{[3]=8, [0, 1]=9, [0, 2]=13, [1]=3, [0, 1, 2]=17, [0]=59, [1, 2]=1, [2, 3]=1}
+Class: 124101. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar147
+{[3]=34, [0, 1]=9, [0, 2]=15, [0, 1, 2]=9, [0]=75, [1, 2, 3]=1, [2, 3]=3, [1, 3]=1}
+{[3]=34, [0, 1]=9, [0, 2]=15, [0, 1, 2]=9, [0]=75, [1, 2, 3]=1, [2, 3]=3, [1, 3]=1}
+Class: 124512. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar90
+{[0, 3]=2, [3]=11, [0, 1]=5, [0, 2]=38, [0, 1, 3]=4, [0, 1, 2]=9, [0]=21}
+{[0, 3]=2, [3]=11, [0, 1]=5, [0, 2]=38, [0, 1, 3]=4, [0, 1, 2]=9, [0]=21}
+Class: 124522. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar152
+{[3]=12, [0, 1]=4, [0, 2]=58, [0, 1, 2]=14, [0]=64}
+{[3]=12, [0, 1]=4, [0, 2]=58, [0, 1, 2]=14, [0]=64}
+Class: 124727. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar299
+{[0, 3]=1, [3]=54, [0, 1]=16, [0, 1, 2, 3]=13, [0, 2]=27, [0, 1, 3]=19, [0, 1, 2]=22, [0]=112, [1, 2, 3]=9, [0, 2, 3]=2, [1, 3]=24}
+{[0, 3]=1, [3]=54, [0, 1]=16, [0, 1, 2, 3]=13, [0, 2]=27, [0, 1, 3]=19, [0, 1, 2]=22, [0]=112, [1, 2, 3]=9, [0, 2, 3]=2, [1, 3]=24}
+Class: 124868. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar131
+{[3]=47, [0, 2]=21, [0, 1, 2]=2, [0]=61}
+{[3]=47, [0, 2]=21, [0, 1, 2]=2, [0]=61}
+Class: 125164. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar103
+{[3]=26, [0, 1]=2, [0, 2]=9, [0, 1, 2]=2, [0]=64}
+{[3]=26, [0, 1]=2, [0, 2]=9, [0, 1, 2]=2, [0]=64}
+Class: 126312. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar90
+{[0, 1]=7, [3]=1, [0, 2]=31, [0, 1, 2]=13, [0]=38}
+{[0, 1]=7, [3]=1, [0, 2]=31, [0, 1, 2]=13, [0]=38}
+Class: 128114. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar191
+{[3]=32, [0, 1]=9, [0, 2]=37, [0, 1, 2]=13, [0]=99, [1, 2]=1}
+{[3]=32, [0, 1]=9, [0, 2]=37, [0, 1, 2]=13, [0]=99, [1, 2]=1}
+Class: 128268. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar204
+{[3]=18, [0, 1]=50, [0, 2]=60, [0, 1, 3]=1, [0, 1, 2]=18, [0]=45, [2, 3]=6, [1, 3]=6}
+{[3]=18, [0, 1]=50, [0, 2]=60, [0, 1, 3]=1, [0, 1, 2]=18, [0]=45, [2, 3]=6, [1, 3]=6}
+Class: 129273. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar180
+{[3]=53, [0, 1]=9, [0, 2]=14, [0, 1, 2]=17, [0]=86, [2, 3]=1}
+{[3]=53, [0, 1]=9, [0, 2]=14, [0, 1, 2]=17, [0]=86, [2, 3]=1}
+Class: 129893. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar223
+{[0, 1, 2, 3]=1, [3]=9, [0, 1]=3, [0, 2]=1, [0, 1, 3]=1, [0, 1, 2]=3, [0]=205}
+{[0, 1, 2, 3]=1, [3]=9, [0, 1]=3, [0, 2]=1, [0, 1, 3]=1, [0, 1, 2]=3, [0]=205}
+Class: 132468. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar215
+{[3]=39, [0, 1]=6, [0, 2]=63, [0, 1, 2]=19, [0]=87, [1, 2, 3]=1}
+{[3]=39, [0, 1]=6, [0, 2]=63, [0, 1, 2]=19, [0]=87, [1, 2, 3]=1}
+Class: 133891. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /Antes de ordernar144
+{[3]=27, [0, 1]=10, [0, 2]=10, [1]=2, [0, 1, 2]=13, [0]=80, [1, 2]=1, [2, 3]=1}
+{[3]=27, [0, 1]=10, [0, 2]=10, [1]=2, [0, 1, 2]=13, [0]=80, [1, 2]=1, [2, 3]=1}
+Class: 136385. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar166
+{[3]=20, [0, 1, 2, 3]=2, [0, 1, 3]=1, [1]=1, [0, 1, 2]=18, [0]=53, [0, 2, 3]=3, [1, 2, 3]=2, [2, 3]=5, [0, 3]=3, [0, 1]=32, [0, 2]=25, [1, 3]=1}
+{[3]=20, [0, 1, 2, 3]=2, [0, 1, 3]=1, [1]=1, [0, 1, 2]=18, [0]=53, [0, 2, 3]=3, [1, 2, 3]=2, [2, 3]=5, [0, 3]=3, [0, 1]=32, [0, 2]=25, [1, 3]=1}
+Class: 139378. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \Antes de ordernar190
+{[0, 3]=2, [3]=47, [0, 1]=17, [0, 1, 2, 3]=1, [0, 2]=22, [0, 1, 3]=1, [0, 1, 2]=18, [0]=82}
+{[0, 3]=2, [3]=47, [0, 1]=17, [0, 1, 2, 3]=1, [0, 2]=22, [0, 1, 3]=1, [0, 1, 2]=18, [0]=82}
+Class: 142661. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar200
+{[3]=33, [0, 1]=7, [0, 2]=50, [0, 1, 2]=1, [0]=109}
+{[3]=33, [0, 1]=7, [0, 2]=50, [0, 1, 2]=1, [0]=109}
+Class: 148505. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar73
+{[0, 3]=1, [3]=29, [0, 1]=10, [0, 2]=9, [0, 1, 2]=7, [0]=16, [2, 3]=1}
+{[0, 3]=1, [3]=29, [0, 1]=10, [0, 2]=9, [0, 1, 2]=7, [0]=16, [2, 3]=1}
+Class: 149121. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -Antes de ordernar185
+{[3]=16, [0, 1, 2, 3]=5, [0, 1, 3]=3, [1]=2, [0, 1, 2]=16, [0]=102, [1, 2, 3]=2, [0, 2, 3]=1, [2, 3]=2, [0, 3]=2, [0, 1]=20, [0, 2]=12, [1, 3]=2}
+{[3]=16, [0, 1, 2, 3]=5, [0, 1, 3]=3, [1]=2, [0, 1, 2]=16, [0]=102, [1, 2, 3]=2, [0, 2, 3]=1, [2, 3]=2, [0, 3]=2, [0, 1]=20, [0, 2]=12, [1, 3]=2}
+Class: 153026. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar178
+{[3]=70, [0, 1]=8, [0, 2]=15, [0, 1, 2]=5, [0]=80}
+{[3]=70, [0, 1]=8, [0, 2]=15, [0, 1, 2]=5, [0]=80}
+Class: 157210. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar61
+{[3]=8, [0, 1, 2, 3]=1, [0, 1]=8, [0, 2]=4, [0, 1, 3]=3, [0, 1, 2]=19, [0]=11, [0, 2, 3]=1, [1, 2, 3]=1, [2, 3]=5}
+{[3]=8, [0, 1, 2, 3]=1, [0, 1]=8, [0, 2]=4, [0, 1, 3]=3, [0, 1, 2]=19, [0]=11, [0, 2, 3]=1, [1, 2, 3]=1, [2, 3]=5}
+Class: 168955. Discovering movelets.
+
+Movelet Discovery   0%  /
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |
+Movelet Discovery   0%  /
+Movelet Discovery   0%  -
+Movelet Discovery   0%  \
+Movelet Discovery   0%  |Antes de ordernar60
+{[0, 3]=1, [0, 1]=10, [3]=2, [0, 1, 2, 3]=1, [0, 2]=4, [0, 1, 3]=2, [0, 1, 2]=12, [0]=23, [0, 2, 3]=1, [1, 3]=4}
+{[0, 3]=1, [0, 1]=10, [3]=2, [0, 1, 2, 3]=1, [0, 2]=4, [0, 1, 3]=2, [0, 1, 2]=12, [0]=23, [0, 2, 3]=1, [1, 3]=4}
+{MoveletsFound=57803, candidates=190755, MoveletsDiscoveryTime=23158272, MoveletsAfterPruning=60}
+Processing time: 28087302 milliseconds

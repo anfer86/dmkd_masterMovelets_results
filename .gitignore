@@ -1,9 +1,10 @@
 # ignore everything
-*
-
+*.csv
+/datasets
+/programs
 # Except
-!.gitignore
-!/results/*
-!/results/*/*/*.txt
+#!.gitignore
+#/results/
+#!/results/gowalla/
 
 
