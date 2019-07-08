@@ -185,6 +185,65 @@ results.sim.byClass.agg <- results.sim.byClass[, .(
                               by=.(class,classifier)]
 
 # --------------------------------------------------------------------------------------
+# ----------------- MOVELETS -----------------------------------------------------------
+# --------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------------
+
+models = c("approachRF300")
+
+results.movelets.acc <- rbindlist(
+  lapply( 1:nfolds,
+          function(irun){
+            pathdir_irun <- paste0(pathdir, "run", irun, "/Movelets/brightkite_movelets/p_false__q_LSP__ms_1__Ms_10/model/")
+            
+            rbindlist(lapply(models, function(x){
+              
+              pathdir_irun_model <- paste0( pathdir_irun, 'model_', x, '_history.csv' )
+              content <- tail( fread(pathdir_irun_model, header = T) )
+              
+              data.frame(
+                method = paste0('Movelets_',x),
+                acc1   = round( as.numeric(content[,3]) * 100, 1),
+                acc5   = round( as.numeric(content[,4]) * 100, 1),
+                fold   = irun
+              )
+            })
+            )
+          }
+  )
+)
+
+results.movelets.acc.agg <- results.movelets.acc[, .(
+  acc1.mean = mean(acc1), acc1.sd = sd(acc1),
+  acc5.mean = mean(acc5), acc5.sd = sd(acc5) ),
+  by=method]
+
+
+#    -----------------------------------------------------------------------------------
+#    ----------------- BY CLASS --------------------------------------------------------
+#    -----------------------------------------------------------------------------------
+
+results.movelets.byClass <- rbindlist(
+  lapply( 1:nfolds,
+          function(irun){
+            pathdir_irun <- paste0(pathdir, "run", irun, "/Movelets/brightkite_movelets/p_false__q_LSP__ms_1__Ms_10/model/")
+            data.frame (
+              rbindlist(lapply(models, function(x){ get.f1.model.byClass(x,pathdir_irun)} )),
+              fold = irun
+            )
+          }
+  )
+)
+
+results.movelets.byClass.agg <- results.movelets.byClass[, .(
+  f1_scores.mean = mean(f1_score), 
+  precision.mean = mean(precision),
+  recall.mean = mean(recall) ),
+  by=.(class,classifier)]
+
+
+# --------------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------------
 # ----------------- MASTER MOVELETS ----------------------------------------------------
 # --------------------------------------------------------------------------------------
@@ -257,7 +316,7 @@ dt.wide <- reshape(dt, idvar = c("fold"), timevar = "method", direction = "wide"
 dt.wide$fold <- NULL
 colnames(dt.wide) <- gsub( "acc1.", "", colnames(dt.wide) )
 
-tukey.test <- tukeyPost(dt.wide, control = 1)
+tukey.test <- tukeyPost(dt.wide, control = ncol(dt.wide) )
 print('Tukey Post-Test')
 print(tukey.test)
 
@@ -272,7 +331,7 @@ print(tukey.test)
 #                position=position_dodge(.9))
 
 
-dt.agg <- rbind( results.sim.acc.agg, results.masterMovelets.acc.agg )
+dt.agg <- rbind( results.sim.acc.agg, results.movelets.acc.agg, results.masterMovelets.acc.agg )
 
 dt.agg.str <- dt.agg[,.(method, 
           acc1 = paste0(formatC(round(acc1.mean,1), mode = 'character', format = "fg"), 
