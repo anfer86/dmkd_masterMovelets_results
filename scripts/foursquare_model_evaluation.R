@@ -405,6 +405,7 @@ dt.agg.str <- dt.agg[,.(method,
           ),]
 
 print(dt.agg.str)
+fwrite(dt.agg.str, paste0(pathdir,'summary.csv') )
 
 library(xtable)
 dt.agg.latex = xtable(transpose(dt.agg.str))

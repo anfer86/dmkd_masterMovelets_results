@@ -1,0 +1,8 @@
+method,acc1,acc5
+mddtw,91.2 (0.7),97.1 (0.3)
+lcss,94.2 (0.4),97.7 (0.4)
+edr,94.0 (0.6),97.3 (0.4)
+msm,95.2 (0.3),98.2 (0.3)
+Bituler_bidirecctionalRNN2,90.8 (0.8),95.4 (0.5)
+Movelets_approachRF300,64.5 (0.9),89.3 (0.5)
+MasterMovelets_approachRF300,96.3 (0.4),99.1 (0.2)

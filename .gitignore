@@ -1,13 +1,9 @@
 # ignore everything
 *.csv
-/datasets
-/programs
 
 !**/model/*
 # Except
 #!.gitignore
-#/results/
-#!/results/gowalla/
-
+!results/*/*
 
 .Rproj.user
