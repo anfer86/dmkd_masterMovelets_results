@@ -263,7 +263,7 @@ results.masterMovelets.acc <- rbindlist(
               content <- tail( fread(pathdir_irun_model, header = T) )
               
               data.frame(
-                method = x,
+                method = paste0('MasterMovelets_',x),
                 acc1   = round( as.numeric(content[,3]) * 100, 1),
                 acc5   = round( as.numeric(content[,4]) * 100, 1),
                 fold   = irun
@@ -303,13 +303,72 @@ results.masterMovelets.byClass.agg <- results.masterMovelets.byClass[, .(
                               by=.(class,classifier)]
 
 
+# --------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------------
+# ----------------- BITULER ------------------------------------------------------------
+# --------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------------
+
+models = c("bidirecctionalRNN2")
+
+results.bituler.acc <- rbindlist(
+  lapply( 1:nfolds,
+          function(irun){
+            pathdir_irun <- paste0(pathdir, "run", irun, "/Bituler/model/")
+            
+            rbindlist(lapply(models, function(x){
+              
+              pathdir_irun_model <- paste0( pathdir_irun, 'model_', x, '_history.csv' )
+              content <- tail( fread(pathdir_irun_model, header = T), 1 )
+              
+              data.frame(
+                method = paste0('Bituler_',x),
+                acc1   = round( as.numeric(content[,3]) * 100, 1),
+                acc5   = round( as.numeric(content[,4]) * 100, 1),
+                fold   = irun
+              )
+            })
+            )
+          }
+  )
+)
+
+results.bituler.acc.agg <- results.bituler.acc[, .(
+  acc1.mean = mean(acc1), acc1.sd = sd(acc1),
+  acc5.mean = mean(acc5), acc5.sd = sd(acc5) ),
+  by=method]
+
+
+#    -----------------------------------------------------------------------------------
+#    ----------------- BY CLASS --------------------------------------------------------
+#    -----------------------------------------------------------------------------------
+
+results.bituler.byClass <- rbindlist(
+  lapply( 1:nfolds,
+          function(irun){
+            pathdir_irun <- paste0(pathdir, "run", irun, "/Bituler/model/")
+            data.frame (
+              rbindlist(lapply(models, function(x){ get.f1.model.byClass(x,pathdir_irun)} )),
+              fold = irun
+            )
+          }
+  )
+)
+
+results.bituler.byClass.agg <- results.bituler.byClass[, .(
+  f1_scores.mean = mean(f1_score), 
+  precision.mean = mean(precision),
+  recall.mean = mean(recall) ),
+  by=.(class,classifier)]
+
 
 # ------------------------------------------------------------------------------------
 # ------------------------------------------------------------------------------------
 # ------------------------------------------------------------------------------------
 # ------------------------------------------------------------------------------------
 
-dt <- rbind( results.sim.acc, results.masterMovelets.acc )[,.(method, fold, acc1)]
+dt <- rbind( results.sim.acc, results.bituler.acc, results.masterMovelets.acc )[,.(method, fold, acc1)]
 summary( aov( acc1 ~ method, data=dt) )
 
 dt.wide <- reshape(dt, idvar = c("fold"), timevar = "method", direction = "wide")
@@ -331,7 +390,7 @@ print(tukey.test)
 #                position=position_dodge(.9))
 
 
-dt.agg <- rbind( results.sim.acc.agg, results.movelets.acc.agg, results.masterMovelets.acc.agg )
+dt.agg <- rbind( results.sim.acc.agg, results.bituler.acc.agg, results.movelets.acc.agg, results.masterMovelets.acc.agg )
 
 dt.agg.str <- dt.agg[,.(method, 
           acc1 = paste0(formatC(round(acc1.mean,1), mode = 'character', format = "fg"), 
