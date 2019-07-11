@@ -2453,10 +2453,10 @@ Starting...
  99% ################################################# -
 100% ################################################## \
 
-Finding Movelets in training set...Done. Elapsed time: 83111
+Finding Movelets in training set...Done. Elapsed time: 103916
 
-Performing transformation...Done. Elapsed time: 2474
+Performing transformation...Done. Elapsed time: 676
 
-Writing files...Done. Elapsed time: 4365
-{MoveletsFound=1778, candidates=418800, MoveletsDiscoveryTime=180628, MoveletsAfterPruning=1778}
-Processing time: 302443 milliseconds
+Writing files...Done. Elapsed time: 5016
+{MoveletsFound=1633, candidates=418825, MoveletsDiscoveryTime=195816, MoveletsAfterPruning=1633}
+Processing time: 337032 milliseconds
