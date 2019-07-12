@@ -1,10 +1,19 @@
-To run this experiment in slurm
+To run an experiment using Slurm:
 
-sbatch movelets 4_patel_animals/ 16 descriptions/spatialMovelets.json LSP true 2
-sbatch movelets 4_patel_animals/ 16 descriptions/spatialMovelets.json LSP true 4
-sbatch movelets 4_patel_animals/ 16 descriptions/spatialMovelets.json LSP true 6
+sbatch masterMovelets gowalla/run1 16 descriptions/gowalla.json -1 10
 
-sbatch --nodelist=node3-ib movelets gowalla/ 16 descriptions/gowalla_spatial.json LSP false 2
+Please, see the file masterMovelets for more details about the arguments.
 
-sbatch --nodelist=node3-ib build_model ../results/5_patel_vehicle/Movelets/spatialMovelets/p_false__q_LSP__ms_1__Ms_2/ 16
+MasterMovelets generates the movelets by class, so you need to merge all the movelets in a unique dataset
 
+sbatch marge_datasets <dir>
+
+where <dir> is the directory where the movelets were extracted. For instance <dir> ../results/gowalla/run1/MasterMovelets/gowalla_ED/mnf_-1__q_LSP__ms_1__Ms_10/
+
+this script will generate two files: train.csv and test.csv.
+
+Then you need to build models using
+
+sbatch buildModel <dir>
+
+where <dir> is the same directory used for merge_datasets
