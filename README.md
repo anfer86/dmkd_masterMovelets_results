@@ -17,7 +17,7 @@ The experimental results for the datasets are available in directory [results](r
 - Brightkite: [summary.csv](results/brightkite/summary.csv)
 - Foursquare: [summary.csv](results/foursquare/summary.csv)
 
-The directory (scripts)[scripts/] contains the scripts to evaluate and compare the classifiers.
+The directory [scripts](scripts/) contains the scripts to evaluate and compare the classifiers.
 
 ## Source Code
 
