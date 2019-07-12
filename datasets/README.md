@@ -21,4 +21,4 @@ This script will generate two files: train.csv and test.csv.
 sbatch buildModel <dir>
 ```
 
-where \<dir\> is the same directory used for merge_datasets. The classification results will stored in <dir>/model.
+where \<dir\> is the same directory used for merge_datasets. The classification results will stored in \<dir\>/model.
