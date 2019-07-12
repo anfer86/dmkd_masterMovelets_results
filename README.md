@@ -1,4 +1,4 @@
-# DMKD MasterMovelets Experimental Results and Source Code
+# DMKD MasterMovelets - Experimental Results and Source Code
 
 This respository presents the experimental results and source code of the paper titled 'MasterMovelets: Discovering Heterogeneous Movelets for Multiple Aspect Trajectory Classification' submitted to the journal DMKD.
 
