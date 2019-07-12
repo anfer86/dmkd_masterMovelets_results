@@ -11,7 +11,7 @@ Please, see the file masterMovelets for more details about the arguments.
 ```bash
 sbatch marge_datasets <dir>
 ```
-where <dir> is the directory where the movelets were extracted. For instance <dir> ../results/gowalla/run1/MasterMovelets/gowalla_ED/mnf_-1__q_LSP__ms_1__Ms_10/
+where \<dir\> is the directory where the movelets were extracted. For instance <dir> ../results/gowalla/run1/MasterMovelets/gowalla_ED/mnf_-1__q_LSP__ms_1__Ms_10/
 
 This script will generate two files: train.csv and test.csv.
 
@@ -21,4 +21,4 @@ This script will generate two files: train.csv and test.csv.
 sbatch buildModel <dir>
 ```
 
-where <dir> is the same directory used for merge_datasets. The classification results will stored in <dir>/model.
+where \<dir\> is the same directory used for merge_datasets. The classification results will stored in <dir>/model.
