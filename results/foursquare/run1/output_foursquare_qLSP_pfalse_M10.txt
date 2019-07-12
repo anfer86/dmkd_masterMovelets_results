@@ -1,0 +1,22 @@
+Starting running shapelets extractor 
+Configurations:
+	Datasets directory:	    /home/wzalewski/ferrero/thesis/cv//datasets/foursquare/run1//
+	Results directory:    /home/wzalewski/ferrero/thesis/cv//results/foursquare/run1//
+	Description file :    descriptions/foursquare.json
+	Allowed Threads:      16
+	Min size:             1
+	Max size:             10
+	Quality Measure:      LSP
+	Movelets Pruning:      false
+
+
+Starting...
+
+  0%  /
+Finding Movelets in training set...Done. Elapsed time: 1
+
+Performing transformation...Done. Elapsed time: 0
+
+Writing files...Done. Elapsed time: 8
+{MoveletsFound=0, candidates=0, MoveletsDiscoveryTime=260, MoveletsAfterPruning=0}
+Processing time: 10342 milliseconds

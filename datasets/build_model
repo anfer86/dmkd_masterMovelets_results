@@ -1,0 +1,21 @@
+#!/bin/bash
+#SBATCH -p 1d
+#SBATCH -t 1-00:00:00
+#SBATCH --job-name=MoveletsCap5
+#SBATCH --nodes 1
+#SBATCH --ntasks 1
+#SBATCH --cpus-per-task 32
+#SBATCH --output logs/slurm_%j.out
+
+
+BASE="/home/wzalewski/ferrero/thesis/cv/"
+BUILD_MODEL=$BASE"/programs/build_model.py"
+
+if [ "$#" -ne 1 ]
+then 
+	echo "you need to define: (1) the folder containg the dataset"
+	exit 1
+fi
+
+
+python $BUILD_MODEL $1 > $1/build_model.output

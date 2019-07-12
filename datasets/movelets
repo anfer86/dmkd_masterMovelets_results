@@ -1,0 +1,34 @@
+#!/bin/bash
+#SBATCH -p 1d
+#SBATCH -t 1-00:00:00
+#SBATCH --job-name=MoveletsCV
+#SBATCH --nodes 1
+#SBATCH --ntasks 1
+#SBATCH --cpus-per-task 16
+#SBATCH --output logs/slurm_%j.out
+
+
+JAVA_PATH="/home/wzalewski/java/jdk1.8.0_171/bin/java"
+JAVA_OPTS="-Xmx350g -Xms1g"
+
+BASE="/home/wzalewski/ferrero/thesis/cv/"
+MOVELETS_PATH=$BASE"/programs/Movelets.jar"
+
+if [ "$#" -ne 6 ]
+then 
+	echo "you need to define: (1) the dataset, (2) third the number of threads, (3) the description file, (4) quality measure (IG ou LSP), (5) movelets pruning (true or false) (6) max subtrajectory length"
+	exit 1
+fi
+
+DIR_PATH=$BASE"/datasets/"$1"/"
+
+RESULTS_DIR_PATH=$BASE"/results/"$1"/"
+
+mkdir -p $RESULTS_DIR_PATH
+
+BASENAME_DESC=$(basename $3)
+FILENAME_DESC=${BASENAME_DESC%.*}
+
+OUTPUT_FILENAME=$RESULTS_DIR_PATH"/output_"$FILENAME_DESC"_q"$4"_p"$5"_M"$6".txt"
+
+$JAVA_PATH $JAVA_OPTS -jar $MOVELETS_PATH -curpath $DIR_PATH -respath $RESULTS_DIR_PATH -descfile $3 -nt $2 -q $4 -p $5 -Ms $6 -ms 1  > $OUTPUT_FILENAME

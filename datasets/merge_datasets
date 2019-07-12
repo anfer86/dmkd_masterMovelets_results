@@ -1,0 +1,24 @@
+#!/bin/bash
+#SBATCH -p 1d
+#SBATCH -t 1-00:00:00
+#SBATCH --job-name=MoveletsCap5
+#SBATCH --nodes 1
+#SBATCH --ntasks 1
+#SBATCH --cpus-per-task 32
+#SBATCH --output logs/slurm_%j.out
+
+
+BASE="/home/wzalewski/ferrero/thesis/cv/"
+MERGE_DATASETS=$BASE"/programs/MergeDatasets.R"
+
+R_PATH="/home/wzalewski/anaconda3/bin/Rscript"
+
+if [ "$#" -ne 1 ]
+then 
+	echo "you need to define: (1) the folder containg the dataset"
+	exit 1
+fi
+
+
+#$R_PATH $MERGE_DATASETS $1
+Rscript $MERGE_DATASETS $1

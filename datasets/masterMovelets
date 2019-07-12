@@ -1,0 +1,35 @@
+#!/bin/bash
+#SBATCH -p 1d
+#SBATCH -t 1-00:00:00
+#SBATCH --job-name=MasterCV
+#SBATCH --nodes 1
+#SBATCH --ntasks 1
+#SBATCH --cpus-per-task 16
+#SBATCH --output logs/slurm_%j.out
+
+
+JAVA_PATH="/home/wzalewski/java/jdk1.8.0_171/bin/java"
+JAVA_OPTS="-Xmx220g -Xms1g"
+
+BASE="/home/wzalewski/ferrero/thesis/cv/"
+MASTERMOVELETS_PATH=$BASE"/programs/MasterMoveletsByClass.jar"
+
+if [ "$#" -ne 5 ]
+then 
+	echo "you need to define: (1) the dataset, (2) third the number of threads, (3) the description file, (4) maximum number of features, (5) max subtrajecory length"
+	exit 1
+fi
+
+DATASET_DIR_PATH=$BASE"/datasets/"$1"/"
+
+RESULTS_DIR_PATH=$BASE"/results/"$1"/"
+
+mkdir -p $RESULTS_DIR_PATH
+
+BASENAME_DESC=$(basename $3)
+
+FILENAME_DESC=${BASENAME_DESC%.*}
+
+OUTPUT_FILENAME=$RESULTS_DIR_PATH"/output_master_"$FILENAME_DESC"__mnf_"$4"__Ms_"$5".txt"
+
+$JAVA_PATH $JAVA_OPTS -jar $MASTERMOVELETS_PATH -curpath $DATASET_DIR_PATH -respath $RESULTS_DIR_PATH -descfile $3 -nt $2 -cache true -ms 1 -Ms $5 -ed true -mnf $4 -samples 1 -sampleSize 0.5 -medium "none" -output "discrete" -lowm "false"> $OUTPUT_FILENAME

@@ -1,0 +1,10 @@
+To run this experiment in slurm
+
+sbatch movelets 4_patel_animals/ 16 descriptions/spatialMovelets.json LSP true 2
+sbatch movelets 4_patel_animals/ 16 descriptions/spatialMovelets.json LSP true 4
+sbatch movelets 4_patel_animals/ 16 descriptions/spatialMovelets.json LSP true 6
+
+sbatch --nodelist=node3-ib movelets gowalla/ 16 descriptions/gowalla_spatial.json LSP false 2
+
+sbatch --nodelist=node3-ib build_model ../results/5_patel_vehicle/Movelets/spatialMovelets/p_false__q_LSP__ms_1__Ms_2/ 16
+
